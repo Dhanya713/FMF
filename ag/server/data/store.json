@@ -1,0 +1,2769 @@
+{
+  "users": [
+    {
+      "id": "demo-user-1",
+      "name": "Alex Rivera",
+      "email": "demo@findmyflow.com",
+      "passwordHash": "$2b$10$AtEI4vYftJrDKXrQnwiYPOpstD7tRcGiyrBsmewIeIPmZ1D7T8mQu",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "bio": "Passionate student exploring software architecture, performing arts, and digital creative design.",
+      "education": "Undergraduate Computer Science & Creative Arts Studies",
+      "interests": [
+        "performing_arts",
+        "visual_design",
+        "coding_tech"
+      ],
+      "assessmentCompleted": true,
+      "topCareerId": "content_creator",
+      "activeCareerId": "singer_performer",
+      "streak": 12,
+      "completedRoadmapItems": {
+        "singer_vocalist": [
+          "singer_vocalist-1",
+          "singer_vocalist-2",
+          "singer_vocalist-3"
+        ],
+        "software_engineer": [
+          "software_engineer-1",
+          "software_engineer-2"
+        ]
+      },
+      "recommendations": [
+        {
+          "careerId": "content_creator",
+          "suitability": 97,
+          "whyItMatches": "Your cross-disciplinary mix of visual creativity, clear communication, and entrepreneurial independence makes digital content creation a natural fit."
+        },
+        {
+          "careerId": "fashion_designer",
+          "suitability": 91,
+          "whyItMatches": "Your bold aesthetic vision, tactile appreciation for textiles and form, color theory mastery, and creative trend instincts make fashion design a natural match."
+        },
+        {
+          "careerId": "event_manager",
+          "suitability": 88,
+          "whyItMatches": "Your organizational mastery, calm composure under live deadlines, creative spatial imagination, and love of bringing thousands of people together make event production an exceptional fit."
+        },
+        {
+          "careerId": "writer",
+          "suitability": 87,
+          "whyItMatches": "Your introspective depth, passion for storytelling arcs, and love of language and character nuance make creative writing an ideal vocation."
+        },
+        {
+          "careerId": "entrepreneur",
+          "suitability": 84,
+          "whyItMatches": "Your high initiative, resilience in ambiguity, strategic ambition, and leadership instinct make entrepreneurship a premier match."
+        },
+        {
+          "careerId": "business_manager",
+          "suitability": 84,
+          "whyItMatches": "Your systematic operational mindset, organizational skill, and balanced decision-making make business management a natural match."
+        },
+        {
+          "careerId": "medical_researcher",
+          "suitability": 84,
+          "whyItMatches": "Your analytical brilliance, fascination with human pathology, rigorous scientific precision, and desire to cure diseases make medical research a profound match."
+        },
+        {
+          "careerId": "product_manager",
+          "suitability": 83,
+          "whyItMatches": "Your balanced combination of strategic vision, user empathy, clear communication, and analytical prioritization makes product management a premier fit."
+        },
+        {
+          "careerId": "biotechnologist",
+          "suitability": 83,
+          "whyItMatches": "Your fascination with molecular genetics, biological systems, laboratory precision, and technological solutions to human health makes biotechnology a thrilling path."
+        },
+        {
+          "careerId": "nutritionist",
+          "suitability": 82,
+          "whyItMatches": "Your enthusiasm for food science, metabolic vitality, wellness education, and healthy culinary choices makes nutrition a deeply satisfying path."
+        },
+        {
+          "careerId": "actor_performer",
+          "suitability": 80,
+          "whyItMatches": "Your acute emotional intelligence, ability to step into others' shoes, charismatic stage magnetism, and love for storytelling make acting a natural calling."
+        },
+        {
+          "careerId": "financial_analyst",
+          "suitability": 79,
+          "whyItMatches": "Your analytical precision, comfort with financial models, and structured quantitative reasoning make finance a formidable career."
+        },
+        {
+          "careerId": "research_scientist",
+          "suitability": 79,
+          "whyItMatches": "Your insatiable intellectual curiosity, devotion to empirical truth, methodical discipline, and love for scientific inquiry make scientific research an exemplary match."
+        },
+        {
+          "careerId": "doctor",
+          "suitability": 79,
+          "whyItMatches": "Your acute analytical intellect, empathy for suffering, composure under high-stakes emergencies, and commitment to service make medicine an extraordinary calling."
+        },
+        {
+          "careerId": "ui_ux_designer",
+          "suitability": 78,
+          "whyItMatches": "Your visual aesthetic sensitivity paired with empathy for human behavior makes UI/UX Product Design a natural fit."
+        },
+        {
+          "careerId": "counselor",
+          "suitability": 78,
+          "whyItMatches": "Your warm presence, compassionate heart, patience with people's struggles, and commitment to emotional restoration make counseling a wonderful match."
+        },
+        {
+          "careerId": "chef",
+          "suitability": 78,
+          "whyItMatches": "Your hands-on creative drive, sensory experimentation, culinary passion, and ability to thrive under high-intensity physical leadership make being a chef an unforgettable calling."
+        },
+        {
+          "careerId": "psychologist",
+          "suitability": 77,
+          "whyItMatches": "Your profound empathy, non-judgmental listening, fascination with the human mind, and desire to alleviate mental suffering align with psychology."
+        },
+        {
+          "careerId": "social_worker",
+          "suitability": 77,
+          "whyItMatches": "Your moral courage, passion for social equity, deep empathy for marginalized individuals, and community-minded spirit align with social work."
+        },
+        {
+          "careerId": "nurse",
+          "suitability": 76,
+          "whyItMatches": "Your instinctive compassion, physical stamina, keen observational skills under pressure, and drive to care for people make nursing a wonderful fit."
+        },
+        {
+          "careerId": "software_engineer",
+          "suitability": 75,
+          "whyItMatches": "Your high score in algorithmic reasoning, systematic problem solving, and structured execution aligns directly with modern software engineering."
+        },
+        {
+          "careerId": "graphic_designer",
+          "suitability": 75,
+          "whyItMatches": "Your keen eye for visual balance, typography harmony, and emotional color resonance makes graphic design an ideal outlet."
+        },
+        {
+          "careerId": "video_editor",
+          "suitability": 74,
+          "whyItMatches": "Your rhythmic intuition, attention to narrative flow, and technical finesse in digital creation make video editing a brilliant match."
+        },
+        {
+          "careerId": "model_fashion",
+          "suitability": 74,
+          "whyItMatches": "Your natural aesthetic poise, confidence in front of the lens, love for styling and fashion, and visual charisma make modeling an exciting path."
+        },
+        {
+          "careerId": "fitness_trainer",
+          "suitability": 74,
+          "whyItMatches": "Your enthusiasm for physical vitality, exercise biomechanics, motivating leadership, and active healthy living makes fitness coaching an inspiring path."
+        },
+        {
+          "careerId": "sports_professional",
+          "suitability": 74,
+          "whyItMatches": "Your competitive drive, sports acumen, tactical game sense, and inspiring team leadership make athletics a thrilling match."
+        },
+        {
+          "careerId": "environmental_scientist",
+          "suitability": 73,
+          "whyItMatches": "Your passion for the natural world, climate advocacy, scientific data collection, and commitment to planetary sustainability make environmental science a deeply fulfilling match."
+        },
+        {
+          "careerId": "interior_designer",
+          "suitability": 71,
+          "whyItMatches": "Your keen sensitivity to ambient environments, spatial layouts, texture harmonies, and functional aesthetics aligns with interior design."
+        },
+        {
+          "careerId": "ai_ml_engineer",
+          "suitability": 68,
+          "whyItMatches": "Your aptitude for mathematical abstractions, empirical data analysis, and breakthrough innovations makes machine learning engineering a premier match."
+        },
+        {
+          "careerId": "cybersecurity_professional",
+          "suitability": 68,
+          "whyItMatches": "Your acute attention to detail, threat anticipation mindset, and passion for digital ethics make cybersecurity defense an ideal match."
+        },
+        {
+          "careerId": "animator",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for dynamic movement, visual timing, and kinetic storytelling makes animation a thrilling fit."
+        },
+        {
+          "careerId": "photographer",
+          "suitability": 68,
+          "whyItMatches": "Your visual sensitivity, natural curiosity about people, and command of lighting and composition make photography an ideal creative path."
+        },
+        {
+          "careerId": "singer_performer",
+          "suitability": 68,
+          "whyItMatches": "Your profound emotional resonance, innate melodic intuition, love for musical expression, and excitement for the stage make vocal performance a standout path."
+        },
+        {
+          "careerId": "dance_choreography",
+          "suitability": 68,
+          "whyItMatches": "Your high kinetic intelligence, physical stamina, deep musicality, and drive for visual expression make dance and choreography an extraordinary fit."
+        },
+        {
+          "careerId": "music_producer_composer",
+          "suitability": 68,
+          "whyItMatches": "Your keen ear for sonic harmony, technical fascination with sound synthesis, and endless musical creativity make music production a phenomenal fit."
+        },
+        {
+          "careerId": "entertainment_host_presenter",
+          "suitability": 68,
+          "whyItMatches": "Your conversational confidence, natural humor, quick-thinking wit, and passion for engaging live audiences make hosting and entertaining a natural match."
+        },
+        {
+          "careerId": "director_film_producer",
+          "suitability": 68,
+          "whyItMatches": "Your holistic creative vision, leadership presence, storytelling passion, and ability to coordinate complex artistic teams make film directing an inspiring match."
+        },
+        {
+          "careerId": "digital_entertainment_creator",
+          "suitability": 68,
+          "whyItMatches": "Your infectious humor, comfort before the smartphone lens, quick adaptability to cultural memes, and digital savviness make entertainment creating a natural triumph."
+        },
+        {
+          "careerId": "marketing_professional",
+          "suitability": 68,
+          "whyItMatches": "Your blend of consumer psychology, creative communication, and metric-driven strategy makes marketing an ideal field."
+        },
+        {
+          "careerId": "hr_professional",
+          "suitability": 68,
+          "whyItMatches": "Your high empathy, active listening, fairness in conflict resolution, and enthusiasm for developing human potential make HR and talent leadership an outstanding match."
+        },
+        {
+          "careerId": "teacher_educator",
+          "suitability": 68,
+          "whyItMatches": "Your passion for helping others grow, natural ability to communicate clearly, patience, and love of lifelong learning make education a deeply noble fit."
+        },
+        {
+          "careerId": "career_counselor",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for unlocking people's potential, understanding career taxonomy, and empowering individuals with practical roadmaps makes career counseling an ideal fit."
+        },
+        {
+          "careerId": "physiotherapist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with human anatomy and biomechanics, hands-on kinetic approach, and patience in guiding rehabilitation make physiotherapy an exceptional career."
+        },
+        {
+          "careerId": "lawyer",
+          "suitability": 68,
+          "whyItMatches": "Your sharp logical reasoning, verbal eloquence, analytical breakdown of complex rules, and commitment to justice make law a formidable fit."
+        },
+        {
+          "careerId": "civil_services",
+          "suitability": 68,
+          "whyItMatches": "Your civic integrity, dedication to public welfare, structured organizational mindset, and sense of duty make civil service an admirable career."
+        },
+        {
+          "careerId": "policy_professional",
+          "suitability": 68,
+          "whyItMatches": "Your intellectual rigor, concern for societal well-being, ability to synthesize complex data, and strategic legislative interest make public policy an inspiring match."
+        },
+        {
+          "careerId": "architect",
+          "suitability": 68,
+          "whyItMatches": "Your rare combination of visual-spatial genius, mathematical rigor, artistic imagination, and environmental consciousness makes architecture a profound fit."
+        },
+        {
+          "careerId": "travel_tourism",
+          "suitability": 68,
+          "whyItMatches": "Your wanderlust, cross-cultural curiosity, warm hospitality, and talent for captivating storytelling make travel curation an extraordinary match."
+        }
+      ],
+      "createdAt": "2026-10-08T09:08:15.598Z"
+    },
+    {
+      "id": "usr_1791450538704_klibd",
+      "name": "Jordan Taylor",
+      "email": "student_1901396809@findmyflow.com",
+      "passwordHash": "$2b$10$/HN9zTx1FawgIaTMhkc6d.ON8TZ20SBFLd19gll7xt1JCuhBFKWge",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Jordan%20Taylor",
+      "bio": "",
+      "education": "Student",
+      "interests": [
+        "performing_arts",
+        "media_storytelling",
+        "visual_design"
+      ],
+      "assessmentCompleted": true,
+      "topCareerId": "video_editor",
+      "activeCareerId": "video_editor",
+      "streak": 3,
+      "completedRoadmapItems": {
+        "video_editor": [
+          "video_editor-1"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [
+        {
+          "careerId": "video_editor",
+          "suitability": 97,
+          "whyItMatches": "Your rhythmic intuition, attention to narrative flow, and technical finesse in digital creation make video editing a brilliant match."
+        },
+        {
+          "careerId": "ui_ux_designer",
+          "suitability": 86,
+          "whyItMatches": "Your visual aesthetic sensitivity paired with empathy for human behavior makes UI/UX Product Design a natural fit."
+        },
+        {
+          "careerId": "graphic_designer",
+          "suitability": 86,
+          "whyItMatches": "Your keen eye for visual balance, typography harmony, and emotional color resonance makes graphic design an ideal outlet."
+        },
+        {
+          "careerId": "writer",
+          "suitability": 86,
+          "whyItMatches": "Your introspective depth, passion for storytelling arcs, and love of language and character nuance make creative writing an ideal vocation."
+        },
+        {
+          "careerId": "content_creator",
+          "suitability": 86,
+          "whyItMatches": "Your cross-disciplinary mix of visual creativity, clear communication, and entrepreneurial independence makes digital content creation a natural fit."
+        },
+        {
+          "careerId": "animator",
+          "suitability": 84,
+          "whyItMatches": "Your enthusiasm for dynamic movement, visual timing, and kinetic storytelling makes animation a thrilling fit."
+        },
+        {
+          "careerId": "actor_performer",
+          "suitability": 84,
+          "whyItMatches": "Your acute emotional intelligence, ability to step into others' shoes, charismatic stage magnetism, and love for storytelling make acting a natural calling."
+        },
+        {
+          "careerId": "interior_designer",
+          "suitability": 83,
+          "whyItMatches": "Your keen sensitivity to ambient environments, spatial layouts, texture harmonies, and functional aesthetics aligns with interior design."
+        },
+        {
+          "careerId": "fashion_designer",
+          "suitability": 82,
+          "whyItMatches": "Your bold aesthetic vision, tactile appreciation for textiles and form, color theory mastery, and creative trend instincts make fashion design a natural match."
+        },
+        {
+          "careerId": "photographer",
+          "suitability": 81,
+          "whyItMatches": "Your visual sensitivity, natural curiosity about people, and command of lighting and composition make photography an ideal creative path."
+        },
+        {
+          "careerId": "model_fashion",
+          "suitability": 78,
+          "whyItMatches": "Your natural aesthetic poise, confidence in front of the lens, love for styling and fashion, and visual charisma make modeling an exciting path."
+        },
+        {
+          "careerId": "software_engineer",
+          "suitability": 68,
+          "whyItMatches": "Your high score in algorithmic reasoning, systematic problem solving, and structured execution aligns directly with modern software engineering."
+        },
+        {
+          "careerId": "ai_ml_engineer",
+          "suitability": 68,
+          "whyItMatches": "Your aptitude for mathematical abstractions, empirical data analysis, and breakthrough innovations makes machine learning engineering a premier match."
+        },
+        {
+          "careerId": "cybersecurity_professional",
+          "suitability": 68,
+          "whyItMatches": "Your acute attention to detail, threat anticipation mindset, and passion for digital ethics make cybersecurity defense an ideal match."
+        },
+        {
+          "careerId": "singer_performer",
+          "suitability": 68,
+          "whyItMatches": "Your profound emotional resonance, innate melodic intuition, love for musical expression, and excitement for the stage make vocal performance a standout path."
+        },
+        {
+          "careerId": "dance_choreography",
+          "suitability": 68,
+          "whyItMatches": "Your high kinetic intelligence, physical stamina, deep musicality, and drive for visual expression make dance and choreography an extraordinary fit."
+        },
+        {
+          "careerId": "music_producer_composer",
+          "suitability": 68,
+          "whyItMatches": "Your keen ear for sonic harmony, technical fascination with sound synthesis, and endless musical creativity make music production a phenomenal fit."
+        },
+        {
+          "careerId": "entertainment_host_presenter",
+          "suitability": 68,
+          "whyItMatches": "Your conversational confidence, natural humor, quick-thinking wit, and passion for engaging live audiences make hosting and entertaining a natural match."
+        },
+        {
+          "careerId": "director_film_producer",
+          "suitability": 68,
+          "whyItMatches": "Your holistic creative vision, leadership presence, storytelling passion, and ability to coordinate complex artistic teams make film directing an inspiring match."
+        },
+        {
+          "careerId": "digital_entertainment_creator",
+          "suitability": 68,
+          "whyItMatches": "Your infectious humor, comfort before the smartphone lens, quick adaptability to cultural memes, and digital savviness make entertainment creating a natural triumph."
+        },
+        {
+          "careerId": "entrepreneur",
+          "suitability": 68,
+          "whyItMatches": "Your high initiative, resilience in ambiguity, strategic ambition, and leadership instinct make entrepreneurship a premier match."
+        },
+        {
+          "careerId": "marketing_professional",
+          "suitability": 68,
+          "whyItMatches": "Your blend of consumer psychology, creative communication, and metric-driven strategy makes marketing an ideal field."
+        },
+        {
+          "careerId": "financial_analyst",
+          "suitability": 68,
+          "whyItMatches": "Your analytical precision, comfort with financial models, and structured quantitative reasoning make finance a formidable career."
+        },
+        {
+          "careerId": "business_manager",
+          "suitability": 68,
+          "whyItMatches": "Your systematic operational mindset, organizational skill, and balanced decision-making make business management a natural match."
+        },
+        {
+          "careerId": "product_manager",
+          "suitability": 68,
+          "whyItMatches": "Your balanced combination of strategic vision, user empathy, clear communication, and analytical prioritization makes product management a premier fit."
+        },
+        {
+          "careerId": "hr_professional",
+          "suitability": 68,
+          "whyItMatches": "Your high empathy, active listening, fairness in conflict resolution, and enthusiasm for developing human potential make HR and talent leadership an outstanding match."
+        },
+        {
+          "careerId": "teacher_educator",
+          "suitability": 68,
+          "whyItMatches": "Your passion for helping others grow, natural ability to communicate clearly, patience, and love of lifelong learning make education a deeply noble fit."
+        },
+        {
+          "careerId": "psychologist",
+          "suitability": 68,
+          "whyItMatches": "Your profound empathy, non-judgmental listening, fascination with the human mind, and desire to alleviate mental suffering align with psychology."
+        },
+        {
+          "careerId": "counselor",
+          "suitability": 68,
+          "whyItMatches": "Your warm presence, compassionate heart, patience with people's struggles, and commitment to emotional restoration make counseling a wonderful match."
+        },
+        {
+          "careerId": "social_worker",
+          "suitability": 68,
+          "whyItMatches": "Your moral courage, passion for social equity, deep empathy for marginalized individuals, and community-minded spirit align with social work."
+        },
+        {
+          "careerId": "career_counselor",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for unlocking people's potential, understanding career taxonomy, and empowering individuals with practical roadmaps makes career counseling an ideal fit."
+        },
+        {
+          "careerId": "research_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your insatiable intellectual curiosity, devotion to empirical truth, methodical discipline, and love for scientific inquiry make scientific research an exemplary match."
+        },
+        {
+          "careerId": "biotechnologist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with molecular genetics, biological systems, laboratory precision, and technological solutions to human health makes biotechnology a thrilling path."
+        },
+        {
+          "careerId": "environmental_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your passion for the natural world, climate advocacy, scientific data collection, and commitment to planetary sustainability make environmental science a deeply fulfilling match."
+        },
+        {
+          "careerId": "medical_researcher",
+          "suitability": 68,
+          "whyItMatches": "Your analytical brilliance, fascination with human pathology, rigorous scientific precision, and desire to cure diseases make medical research a profound match."
+        },
+        {
+          "careerId": "doctor",
+          "suitability": 68,
+          "whyItMatches": "Your acute analytical intellect, empathy for suffering, composure under high-stakes emergencies, and commitment to service make medicine an extraordinary calling."
+        },
+        {
+          "careerId": "nurse",
+          "suitability": 68,
+          "whyItMatches": "Your instinctive compassion, physical stamina, keen observational skills under pressure, and drive to care for people make nursing a wonderful fit."
+        },
+        {
+          "careerId": "physiotherapist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with human anatomy and biomechanics, hands-on kinetic approach, and patience in guiding rehabilitation make physiotherapy an exceptional career."
+        },
+        {
+          "careerId": "nutritionist",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for food science, metabolic vitality, wellness education, and healthy culinary choices makes nutrition a deeply satisfying path."
+        },
+        {
+          "careerId": "lawyer",
+          "suitability": 68,
+          "whyItMatches": "Your sharp logical reasoning, verbal eloquence, analytical breakdown of complex rules, and commitment to justice make law a formidable fit."
+        },
+        {
+          "careerId": "civil_services",
+          "suitability": 68,
+          "whyItMatches": "Your civic integrity, dedication to public welfare, structured organizational mindset, and sense of duty make civil service an admirable career."
+        },
+        {
+          "careerId": "policy_professional",
+          "suitability": 68,
+          "whyItMatches": "Your intellectual rigor, concern for societal well-being, ability to synthesize complex data, and strategic legislative interest make public policy an inspiring match."
+        },
+        {
+          "careerId": "architect",
+          "suitability": 68,
+          "whyItMatches": "Your rare combination of visual-spatial genius, mathematical rigor, artistic imagination, and environmental consciousness makes architecture a profound fit."
+        },
+        {
+          "careerId": "chef",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on creative drive, sensory experimentation, culinary passion, and ability to thrive under high-intensity physical leadership make being a chef an unforgettable calling."
+        },
+        {
+          "careerId": "fitness_trainer",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for physical vitality, exercise biomechanics, motivating leadership, and active healthy living makes fitness coaching an inspiring path."
+        },
+        {
+          "careerId": "sports_professional",
+          "suitability": 68,
+          "whyItMatches": "Your competitive drive, sports acumen, tactical game sense, and inspiring team leadership make athletics a thrilling match."
+        },
+        {
+          "careerId": "event_manager",
+          "suitability": 68,
+          "whyItMatches": "Your organizational mastery, calm composure under live deadlines, creative spatial imagination, and love of bringing thousands of people together make event production an exceptional fit."
+        },
+        {
+          "careerId": "travel_tourism",
+          "suitability": 68,
+          "whyItMatches": "Your wanderlust, cross-cultural curiosity, warm hospitality, and talent for captivating storytelling make travel curation an extraordinary match."
+        }
+      ],
+      "createdAt": "2026-10-08T09:08:58.704Z"
+    },
+    {
+      "id": "usr_1791450554470_wnka4",
+      "name": "Aria Melody",
+      "email": "singer_389547599@findmyflow.com",
+      "passwordHash": "$2b$10$.WRuRfrmA6hehyFoPQrC6.qhGLjaBHofruYU6nRCiapzJuG82DZ5.",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Aria%20Melody",
+      "bio": "",
+      "education": "Student",
+      "interests": [
+        "performing_arts",
+        "media_storytelling"
+      ],
+      "assessmentCompleted": true,
+      "topCareerId": "writer",
+      "activeCareerId": "writer",
+      "streak": 2,
+      "completedRoadmapItems": {},
+      "savedCareers": [],
+      "recommendations": [
+        {
+          "careerId": "writer",
+          "suitability": 97,
+          "whyItMatches": "Your introspective depth, passion for storytelling arcs, and love of language and character nuance make creative writing an ideal vocation."
+        },
+        {
+          "careerId": "content_creator",
+          "suitability": 97,
+          "whyItMatches": "Your cross-disciplinary mix of visual creativity, clear communication, and entrepreneurial independence makes digital content creation a natural fit."
+        },
+        {
+          "careerId": "actor_performer",
+          "suitability": 95,
+          "whyItMatches": "Your acute emotional intelligence, ability to step into others' shoes, charismatic stage magnetism, and love for storytelling make acting a natural calling."
+        },
+        {
+          "careerId": "video_editor",
+          "suitability": 93,
+          "whyItMatches": "Your rhythmic intuition, attention to narrative flow, and technical finesse in digital creation make video editing a brilliant match."
+        },
+        {
+          "careerId": "model_fashion",
+          "suitability": 85,
+          "whyItMatches": "Your natural aesthetic poise, confidence in front of the lens, love for styling and fashion, and visual charisma make modeling an exciting path."
+        },
+        {
+          "careerId": "software_engineer",
+          "suitability": 68,
+          "whyItMatches": "Your high score in algorithmic reasoning, systematic problem solving, and structured execution aligns directly with modern software engineering."
+        },
+        {
+          "careerId": "ai_ml_engineer",
+          "suitability": 68,
+          "whyItMatches": "Your aptitude for mathematical abstractions, empirical data analysis, and breakthrough innovations makes machine learning engineering a premier match."
+        },
+        {
+          "careerId": "cybersecurity_professional",
+          "suitability": 68,
+          "whyItMatches": "Your acute attention to detail, threat anticipation mindset, and passion for digital ethics make cybersecurity defense an ideal match."
+        },
+        {
+          "careerId": "ui_ux_designer",
+          "suitability": 68,
+          "whyItMatches": "Your visual aesthetic sensitivity paired with empathy for human behavior makes UI/UX Product Design a natural fit."
+        },
+        {
+          "careerId": "graphic_designer",
+          "suitability": 68,
+          "whyItMatches": "Your keen eye for visual balance, typography harmony, and emotional color resonance makes graphic design an ideal outlet."
+        },
+        {
+          "careerId": "animator",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for dynamic movement, visual timing, and kinetic storytelling makes animation a thrilling fit."
+        },
+        {
+          "careerId": "interior_designer",
+          "suitability": 68,
+          "whyItMatches": "Your keen sensitivity to ambient environments, spatial layouts, texture harmonies, and functional aesthetics aligns with interior design."
+        },
+        {
+          "careerId": "photographer",
+          "suitability": 68,
+          "whyItMatches": "Your visual sensitivity, natural curiosity about people, and command of lighting and composition make photography an ideal creative path."
+        },
+        {
+          "careerId": "singer_performer",
+          "suitability": 68,
+          "whyItMatches": "Your profound emotional resonance, innate melodic intuition, love for musical expression, and excitement for the stage make vocal performance a standout path."
+        },
+        {
+          "careerId": "dance_choreography",
+          "suitability": 68,
+          "whyItMatches": "Your high kinetic intelligence, physical stamina, deep musicality, and drive for visual expression make dance and choreography an extraordinary fit."
+        },
+        {
+          "careerId": "music_producer_composer",
+          "suitability": 68,
+          "whyItMatches": "Your keen ear for sonic harmony, technical fascination with sound synthesis, and endless musical creativity make music production a phenomenal fit."
+        },
+        {
+          "careerId": "entertainment_host_presenter",
+          "suitability": 68,
+          "whyItMatches": "Your conversational confidence, natural humor, quick-thinking wit, and passion for engaging live audiences make hosting and entertaining a natural match."
+        },
+        {
+          "careerId": "director_film_producer",
+          "suitability": 68,
+          "whyItMatches": "Your holistic creative vision, leadership presence, storytelling passion, and ability to coordinate complex artistic teams make film directing an inspiring match."
+        },
+        {
+          "careerId": "digital_entertainment_creator",
+          "suitability": 68,
+          "whyItMatches": "Your infectious humor, comfort before the smartphone lens, quick adaptability to cultural memes, and digital savviness make entertainment creating a natural triumph."
+        },
+        {
+          "careerId": "entrepreneur",
+          "suitability": 68,
+          "whyItMatches": "Your high initiative, resilience in ambiguity, strategic ambition, and leadership instinct make entrepreneurship a premier match."
+        },
+        {
+          "careerId": "marketing_professional",
+          "suitability": 68,
+          "whyItMatches": "Your blend of consumer psychology, creative communication, and metric-driven strategy makes marketing an ideal field."
+        },
+        {
+          "careerId": "financial_analyst",
+          "suitability": 68,
+          "whyItMatches": "Your analytical precision, comfort with financial models, and structured quantitative reasoning make finance a formidable career."
+        },
+        {
+          "careerId": "business_manager",
+          "suitability": 68,
+          "whyItMatches": "Your systematic operational mindset, organizational skill, and balanced decision-making make business management a natural match."
+        },
+        {
+          "careerId": "product_manager",
+          "suitability": 68,
+          "whyItMatches": "Your balanced combination of strategic vision, user empathy, clear communication, and analytical prioritization makes product management a premier fit."
+        },
+        {
+          "careerId": "hr_professional",
+          "suitability": 68,
+          "whyItMatches": "Your high empathy, active listening, fairness in conflict resolution, and enthusiasm for developing human potential make HR and talent leadership an outstanding match."
+        },
+        {
+          "careerId": "teacher_educator",
+          "suitability": 68,
+          "whyItMatches": "Your passion for helping others grow, natural ability to communicate clearly, patience, and love of lifelong learning make education a deeply noble fit."
+        },
+        {
+          "careerId": "psychologist",
+          "suitability": 68,
+          "whyItMatches": "Your profound empathy, non-judgmental listening, fascination with the human mind, and desire to alleviate mental suffering align with psychology."
+        },
+        {
+          "careerId": "counselor",
+          "suitability": 68,
+          "whyItMatches": "Your warm presence, compassionate heart, patience with people's struggles, and commitment to emotional restoration make counseling a wonderful match."
+        },
+        {
+          "careerId": "social_worker",
+          "suitability": 68,
+          "whyItMatches": "Your moral courage, passion for social equity, deep empathy for marginalized individuals, and community-minded spirit align with social work."
+        },
+        {
+          "careerId": "career_counselor",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for unlocking people's potential, understanding career taxonomy, and empowering individuals with practical roadmaps makes career counseling an ideal fit."
+        },
+        {
+          "careerId": "research_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your insatiable intellectual curiosity, devotion to empirical truth, methodical discipline, and love for scientific inquiry make scientific research an exemplary match."
+        },
+        {
+          "careerId": "biotechnologist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with molecular genetics, biological systems, laboratory precision, and technological solutions to human health makes biotechnology a thrilling path."
+        },
+        {
+          "careerId": "environmental_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your passion for the natural world, climate advocacy, scientific data collection, and commitment to planetary sustainability make environmental science a deeply fulfilling match."
+        },
+        {
+          "careerId": "medical_researcher",
+          "suitability": 68,
+          "whyItMatches": "Your analytical brilliance, fascination with human pathology, rigorous scientific precision, and desire to cure diseases make medical research a profound match."
+        },
+        {
+          "careerId": "doctor",
+          "suitability": 68,
+          "whyItMatches": "Your acute analytical intellect, empathy for suffering, composure under high-stakes emergencies, and commitment to service make medicine an extraordinary calling."
+        },
+        {
+          "careerId": "nurse",
+          "suitability": 68,
+          "whyItMatches": "Your instinctive compassion, physical stamina, keen observational skills under pressure, and drive to care for people make nursing a wonderful fit."
+        },
+        {
+          "careerId": "physiotherapist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with human anatomy and biomechanics, hands-on kinetic approach, and patience in guiding rehabilitation make physiotherapy an exceptional career."
+        },
+        {
+          "careerId": "nutritionist",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for food science, metabolic vitality, wellness education, and healthy culinary choices makes nutrition a deeply satisfying path."
+        },
+        {
+          "careerId": "lawyer",
+          "suitability": 68,
+          "whyItMatches": "Your sharp logical reasoning, verbal eloquence, analytical breakdown of complex rules, and commitment to justice make law a formidable fit."
+        },
+        {
+          "careerId": "civil_services",
+          "suitability": 68,
+          "whyItMatches": "Your civic integrity, dedication to public welfare, structured organizational mindset, and sense of duty make civil service an admirable career."
+        },
+        {
+          "careerId": "policy_professional",
+          "suitability": 68,
+          "whyItMatches": "Your intellectual rigor, concern for societal well-being, ability to synthesize complex data, and strategic legislative interest make public policy an inspiring match."
+        },
+        {
+          "careerId": "architect",
+          "suitability": 68,
+          "whyItMatches": "Your rare combination of visual-spatial genius, mathematical rigor, artistic imagination, and environmental consciousness makes architecture a profound fit."
+        },
+        {
+          "careerId": "fashion_designer",
+          "suitability": 68,
+          "whyItMatches": "Your bold aesthetic vision, tactile appreciation for textiles and form, color theory mastery, and creative trend instincts make fashion design a natural match."
+        },
+        {
+          "careerId": "chef",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on creative drive, sensory experimentation, culinary passion, and ability to thrive under high-intensity physical leadership make being a chef an unforgettable calling."
+        },
+        {
+          "careerId": "fitness_trainer",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for physical vitality, exercise biomechanics, motivating leadership, and active healthy living makes fitness coaching an inspiring path."
+        },
+        {
+          "careerId": "sports_professional",
+          "suitability": 68,
+          "whyItMatches": "Your competitive drive, sports acumen, tactical game sense, and inspiring team leadership make athletics a thrilling match."
+        },
+        {
+          "careerId": "event_manager",
+          "suitability": 68,
+          "whyItMatches": "Your organizational mastery, calm composure under live deadlines, creative spatial imagination, and love of bringing thousands of people together make event production an exceptional fit."
+        },
+        {
+          "careerId": "travel_tourism",
+          "suitability": 68,
+          "whyItMatches": "Your wanderlust, cross-cultural curiosity, warm hospitality, and talent for captivating storytelling make travel curation an extraordinary match."
+        }
+      ],
+      "createdAt": "2026-10-08T09:09:14.470Z"
+    },
+    {
+      "id": "usr_1791452192351_rizd1",
+      "name": "bob",
+      "email": "jsnsiofnsio@gms.com",
+      "passwordHash": "$2b$10$M0sK5/6aoSN/wpby4qsQ/OS6tIBBmFoabjhtmHjMEti2X9BoBLctK",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=bob",
+      "bio": "",
+      "education": "Student",
+      "interests": [
+        "performing_arts",
+        "visual_design"
+      ],
+      "assessmentCompleted": true,
+      "topCareerId": "video_editor",
+      "activeCareerId": "video_editor",
+      "streak": 3,
+      "completedRoadmapItems": {
+        "video_editor": []
+      },
+      "savedCareers": [],
+      "recommendations": [
+        {
+          "careerId": "video_editor",
+          "suitability": 97,
+          "whyItMatches": "Your rhythmic intuition, attention to narrative flow, and technical finesse in digital creation make video editing a brilliant match."
+        },
+        {
+          "careerId": "interior_designer",
+          "suitability": 92,
+          "whyItMatches": "Your keen sensitivity to ambient environments, spatial layouts, texture harmonies, and functional aesthetics aligns with interior design."
+        },
+        {
+          "careerId": "photographer",
+          "suitability": 90,
+          "whyItMatches": "Your visual sensitivity, natural curiosity about people, and command of lighting and composition make photography an ideal creative path."
+        },
+        {
+          "careerId": "graphic_designer",
+          "suitability": 88,
+          "whyItMatches": "Your keen eye for visual balance, typography harmony, and emotional color resonance makes graphic design an ideal outlet."
+        },
+        {
+          "careerId": "software_engineer",
+          "suitability": 87,
+          "whyItMatches": "Your high score in algorithmic reasoning, systematic problem solving, and structured execution aligns directly with modern software engineering."
+        },
+        {
+          "careerId": "ui_ux_designer",
+          "suitability": 86,
+          "whyItMatches": "Your visual aesthetic sensitivity paired with empathy for human behavior makes UI/UX Product Design a natural fit."
+        },
+        {
+          "careerId": "civil_services",
+          "suitability": 86,
+          "whyItMatches": "Your civic integrity, dedication to public welfare, structured organizational mindset, and sense of duty make civil service an admirable career."
+        },
+        {
+          "careerId": "fashion_designer",
+          "suitability": 85,
+          "whyItMatches": "Your bold aesthetic vision, tactile appreciation for textiles and form, color theory mastery, and creative trend instincts make fashion design a natural match."
+        },
+        {
+          "careerId": "ai_ml_engineer",
+          "suitability": 84,
+          "whyItMatches": "Your aptitude for mathematical abstractions, empirical data analysis, and breakthrough innovations makes machine learning engineering a premier match."
+        },
+        {
+          "careerId": "content_creator",
+          "suitability": 83,
+          "whyItMatches": "Your cross-disciplinary mix of visual creativity, clear communication, and entrepreneurial independence makes digital content creation a natural fit."
+        },
+        {
+          "careerId": "business_manager",
+          "suitability": 81,
+          "whyItMatches": "Your systematic operational mindset, organizational skill, and balanced decision-making make business management a natural match."
+        },
+        {
+          "careerId": "animator",
+          "suitability": 80,
+          "whyItMatches": "Your enthusiasm for dynamic movement, visual timing, and kinetic storytelling makes animation a thrilling fit."
+        },
+        {
+          "careerId": "actor_performer",
+          "suitability": 80,
+          "whyItMatches": "Your acute emotional intelligence, ability to step into others' shoes, charismatic stage magnetism, and love for storytelling make acting a natural calling."
+        },
+        {
+          "careerId": "model_fashion",
+          "suitability": 80,
+          "whyItMatches": "Your natural aesthetic poise, confidence in front of the lens, love for styling and fashion, and visual charisma make modeling an exciting path."
+        },
+        {
+          "careerId": "financial_analyst",
+          "suitability": 80,
+          "whyItMatches": "Your analytical precision, comfort with financial models, and structured quantitative reasoning make finance a formidable career."
+        },
+        {
+          "careerId": "research_scientist",
+          "suitability": 79,
+          "whyItMatches": "Your insatiable intellectual curiosity, devotion to empirical truth, methodical discipline, and love for scientific inquiry make scientific research an exemplary match."
+        },
+        {
+          "careerId": "product_manager",
+          "suitability": 76,
+          "whyItMatches": "Your balanced combination of strategic vision, user empathy, clear communication, and analytical prioritization makes product management a premier fit."
+        },
+        {
+          "careerId": "social_worker",
+          "suitability": 76,
+          "whyItMatches": "Your moral courage, passion for social equity, deep empathy for marginalized individuals, and community-minded spirit align with social work."
+        },
+        {
+          "careerId": "doctor",
+          "suitability": 76,
+          "whyItMatches": "Your acute analytical intellect, empathy for suffering, composure under high-stakes emergencies, and commitment to service make medicine an extraordinary calling."
+        },
+        {
+          "careerId": "fitness_trainer",
+          "suitability": 76,
+          "whyItMatches": "Your enthusiasm for physical vitality, exercise biomechanics, motivating leadership, and active healthy living makes fitness coaching an inspiring path."
+        },
+        {
+          "careerId": "sports_professional",
+          "suitability": 76,
+          "whyItMatches": "Your competitive drive, sports acumen, tactical game sense, and inspiring team leadership make athletics a thrilling match."
+        },
+        {
+          "careerId": "writer",
+          "suitability": 75,
+          "whyItMatches": "Your introspective depth, passion for storytelling arcs, and love of language and character nuance make creative writing an ideal vocation."
+        },
+        {
+          "careerId": "career_counselor",
+          "suitability": 75,
+          "whyItMatches": "Your enthusiasm for unlocking people's potential, understanding career taxonomy, and empowering individuals with practical roadmaps makes career counseling an ideal fit."
+        },
+        {
+          "careerId": "entrepreneur",
+          "suitability": 74,
+          "whyItMatches": "Your high initiative, resilience in ambiguity, strategic ambition, and leadership instinct make entrepreneurship a premier match."
+        },
+        {
+          "careerId": "counselor",
+          "suitability": 74,
+          "whyItMatches": "Your warm presence, compassionate heart, patience with people's struggles, and commitment to emotional restoration make counseling a wonderful match."
+        },
+        {
+          "careerId": "medical_researcher",
+          "suitability": 74,
+          "whyItMatches": "Your analytical brilliance, fascination with human pathology, rigorous scientific precision, and desire to cure diseases make medical research a profound match."
+        },
+        {
+          "careerId": "physiotherapist",
+          "suitability": 74,
+          "whyItMatches": "Your fascination with human anatomy and biomechanics, hands-on kinetic approach, and patience in guiding rehabilitation make physiotherapy an exceptional career."
+        },
+        {
+          "careerId": "event_manager",
+          "suitability": 74,
+          "whyItMatches": "Your organizational mastery, calm composure under live deadlines, creative spatial imagination, and love of bringing thousands of people together make event production an exceptional fit."
+        },
+        {
+          "careerId": "psychologist",
+          "suitability": 73,
+          "whyItMatches": "Your profound empathy, non-judgmental listening, fascination with the human mind, and desire to alleviate mental suffering align with psychology."
+        },
+        {
+          "careerId": "nurse",
+          "suitability": 73,
+          "whyItMatches": "Your instinctive compassion, physical stamina, keen observational skills under pressure, and drive to care for people make nursing a wonderful fit."
+        },
+        {
+          "careerId": "lawyer",
+          "suitability": 72,
+          "whyItMatches": "Your sharp logical reasoning, verbal eloquence, analytical breakdown of complex rules, and commitment to justice make law a formidable fit."
+        },
+        {
+          "careerId": "cybersecurity_professional",
+          "suitability": 68,
+          "whyItMatches": "Your acute attention to detail, threat anticipation mindset, and passion for digital ethics make cybersecurity defense an ideal match."
+        },
+        {
+          "careerId": "singer_performer",
+          "suitability": 68,
+          "whyItMatches": "Your profound emotional resonance, innate melodic intuition, love for musical expression, and excitement for the stage make vocal performance a standout path."
+        },
+        {
+          "careerId": "dance_choreography",
+          "suitability": 68,
+          "whyItMatches": "Your high kinetic intelligence, physical stamina, deep musicality, and drive for visual expression make dance and choreography an extraordinary fit."
+        },
+        {
+          "careerId": "music_producer_composer",
+          "suitability": 68,
+          "whyItMatches": "Your keen ear for sonic harmony, technical fascination with sound synthesis, and endless musical creativity make music production a phenomenal fit."
+        },
+        {
+          "careerId": "entertainment_host_presenter",
+          "suitability": 68,
+          "whyItMatches": "Your conversational confidence, natural humor, quick-thinking wit, and passion for engaging live audiences make hosting and entertaining a natural match."
+        },
+        {
+          "careerId": "director_film_producer",
+          "suitability": 68,
+          "whyItMatches": "Your holistic creative vision, leadership presence, storytelling passion, and ability to coordinate complex artistic teams make film directing an inspiring match."
+        },
+        {
+          "careerId": "digital_entertainment_creator",
+          "suitability": 68,
+          "whyItMatches": "Your infectious humor, comfort before the smartphone lens, quick adaptability to cultural memes, and digital savviness make entertainment creating a natural triumph."
+        },
+        {
+          "careerId": "marketing_professional",
+          "suitability": 68,
+          "whyItMatches": "Your blend of consumer psychology, creative communication, and metric-driven strategy makes marketing an ideal field."
+        },
+        {
+          "careerId": "hr_professional",
+          "suitability": 68,
+          "whyItMatches": "Your high empathy, active listening, fairness in conflict resolution, and enthusiasm for developing human potential make HR and talent leadership an outstanding match."
+        },
+        {
+          "careerId": "teacher_educator",
+          "suitability": 68,
+          "whyItMatches": "Your passion for helping others grow, natural ability to communicate clearly, patience, and love of lifelong learning make education a deeply noble fit."
+        },
+        {
+          "careerId": "biotechnologist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with molecular genetics, biological systems, laboratory precision, and technological solutions to human health makes biotechnology a thrilling path."
+        },
+        {
+          "careerId": "environmental_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your passion for the natural world, climate advocacy, scientific data collection, and commitment to planetary sustainability make environmental science a deeply fulfilling match."
+        },
+        {
+          "careerId": "nutritionist",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for food science, metabolic vitality, wellness education, and healthy culinary choices makes nutrition a deeply satisfying path."
+        },
+        {
+          "careerId": "policy_professional",
+          "suitability": 68,
+          "whyItMatches": "Your intellectual rigor, concern for societal well-being, ability to synthesize complex data, and strategic legislative interest make public policy an inspiring match."
+        },
+        {
+          "careerId": "architect",
+          "suitability": 68,
+          "whyItMatches": "Your rare combination of visual-spatial genius, mathematical rigor, artistic imagination, and environmental consciousness makes architecture a profound fit."
+        },
+        {
+          "careerId": "chef",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on creative drive, sensory experimentation, culinary passion, and ability to thrive under high-intensity physical leadership make being a chef an unforgettable calling."
+        },
+        {
+          "careerId": "travel_tourism",
+          "suitability": 68,
+          "whyItMatches": "Your wanderlust, cross-cultural curiosity, warm hospitality, and talent for captivating storytelling make travel curation an extraordinary match."
+        }
+      ],
+      "createdAt": "2026-10-08T09:36:32.351Z"
+    },
+    {
+      "id": "usr_1791824165635_ewr25",
+      "name": "Taylor Swift",
+      "email": "student_1791824165528@example.com",
+      "passwordHash": "$2b$10$xM9LwyjDIbKslUhC7cIrpuLvYGoHtjz8AEpsQSmyAMQEmgEov2nFi",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Taylor%20Swift",
+      "bio": "",
+      "education": "Student",
+      "interests": [
+        "coding_tech",
+        "visual_design"
+      ],
+      "assessmentCompleted": true,
+      "topCareerId": "software_engineer",
+      "activeCareerId": "software_engineer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {
+        "software_engineer": [
+          "software_engineer-1",
+          "software_engineer-2"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [
+        {
+          "careerId": "software_engineer",
+          "suitability": 97,
+          "whyItMatches": "Your affinity for problem solving, structural logic, and building functional applications aligns directly with software engineering."
+        },
+        {
+          "careerId": "ai_ml_engineer",
+          "suitability": 95,
+          "whyItMatches": "Your mathematical rigor, interest in cutting-edge algorithms, and systems intuition make machine learning an exceptional match."
+        },
+        {
+          "careerId": "cybersecurity_analyst",
+          "suitability": 92,
+          "whyItMatches": "Your methodical investigation style, attention to systemic vulnerabilities, and ethical responsibility position you for high cybersecurity success."
+        },
+        {
+          "careerId": "actor_performer",
+          "suitability": 85,
+          "whyItMatches": "Your emotional empathy, narrative imagination, and stage presence make dramatic acting an exceptional fit."
+        },
+        {
+          "careerId": "ui_ux_designer",
+          "suitability": 83,
+          "whyItMatches": "Your aesthetic taste, empathy for human frustration, and visual composition skills make product design a seamless fit."
+        },
+        {
+          "careerId": "graphic_designer",
+          "suitability": 83,
+          "whyItMatches": "Your visual instinct, command of color theory, and passion for visual identity make graphic design a natural avenue."
+        },
+        {
+          "careerId": "animator",
+          "suitability": 81,
+          "whyItMatches": "Your spatial visualization, appreciation for timing and physics, and storytelling flair empower standout animation work."
+        },
+        {
+          "careerId": "interior_designer",
+          "suitability": 80,
+          "whyItMatches": "Your keen sensitivity to ambient environments, color balance, and spatial harmony make interior design a fulfilling craft."
+        },
+        {
+          "careerId": "video_editor",
+          "suitability": 80,
+          "whyItMatches": "Your sense of storytelling pacing, auditory-visual synchronization, and patience with detail make video editing an ideal match."
+        },
+        {
+          "careerId": "fashion_designer",
+          "suitability": 80,
+          "whyItMatches": "Your visual eye for silhouettes, tactile textile intuition, and fashion trend awareness position you for fashion innovation."
+        },
+        {
+          "careerId": "photographer",
+          "suitability": 78,
+          "whyItMatches": "Your sharp visual framing, timing intuition, and passion for capturing authentic human and environmental moments shine in photography."
+        },
+        {
+          "careerId": "product_manager",
+          "suitability": 78,
+          "whyItMatches": "Your holistic thinking, empathy for customer needs, and strategic communication make product management an extraordinary match."
+        },
+        {
+          "careerId": "film_director_producer",
+          "suitability": 78,
+          "whyItMatches": "Your grand storytelling vision, cinematic eye, and ability to lead creative teams make filmmaking a profound career."
+        },
+        {
+          "careerId": "writer",
+          "suitability": 76,
+          "whyItMatches": "Your articulate vocabulary, philosophical curiosity, and introspective storytelling drive indicate natural resonance with writing."
+        },
+        {
+          "careerId": "singer_vocalist",
+          "suitability": 76,
+          "whyItMatches": "Your vocal musical intuition, emotional expression, and passion for performing center you for vocal artistry."
+        },
+        {
+          "careerId": "content_creator",
+          "suitability": 68,
+          "whyItMatches": "Your charismatic communication, understanding of internet culture, and creative agility position you for top creator success."
+        },
+        {
+          "careerId": "entrepreneur",
+          "suitability": 68,
+          "whyItMatches": "Your risk appetite, strategic drive, resourcefulness, and ambition make startup venture leadership a powerful path."
+        },
+        {
+          "careerId": "marketing_specialist",
+          "suitability": 68,
+          "whyItMatches": "Your blend of human empathy, analytical metric tracking, and creative storytelling makes growth marketing a natural fit."
+        },
+        {
+          "careerId": "financial_analyst",
+          "suitability": 68,
+          "whyItMatches": "Your quantitative rigor, methodical data discipline, and strategic mindset position you for high finance success."
+        },
+        {
+          "careerId": "business_manager",
+          "suitability": 68,
+          "whyItMatches": "Your organizational clarity, leadership presence, and pragmatic problem-solving make business management a great fit."
+        },
+        {
+          "careerId": "hr_specialist",
+          "suitability": 68,
+          "whyItMatches": "Your interpersonal warmth, ethical fairness, and talent for resolving conflicts make people operations a rewarding discipline."
+        },
+        {
+          "careerId": "teacher",
+          "suitability": 68,
+          "whyItMatches": "Your joy in explaining concepts, patient mentorship, and social responsibility make education a profound calling."
+        },
+        {
+          "careerId": "psychologist",
+          "suitability": 68,
+          "whyItMatches": "Your deep psychological curiosity, emotional intelligence, and analytical empathy align directly with psychological practice."
+        },
+        {
+          "careerId": "counselor",
+          "suitability": 68,
+          "whyItMatches": "Your patient presence, compassionate listening, and desire to help others heal make counseling an exceptional fit."
+        },
+        {
+          "careerId": "social_worker",
+          "suitability": 68,
+          "whyItMatches": "Your passion for social justice, empathy for the underprivileged, and on-the-ground action make social work a deeply meaningful career."
+        },
+        {
+          "careerId": "career_counselor",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for personal growth, career discovery, and strategic guidance aligns perfectly with career counseling."
+        },
+        {
+          "careerId": "research_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your intellectual rigor, empirical curiosity, and love for discovering underlying laws of nature make research science a great fit."
+        },
+        {
+          "careerId": "biotechnologist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with molecular life, genetics, and biotechnology solutions matches the forefront of biotech innovation."
+        },
+        {
+          "careerId": "environmental_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your passion for nature, planetary conservation, and ecological sustainability makes environmental science a deeply fulfilling career."
+        },
+        {
+          "careerId": "medical_researcher",
+          "suitability": 68,
+          "whyItMatches": "Your drive to eradicate illness, rigorous medical curiosity, and laboratory mindset position you for major clinical impact."
+        },
+        {
+          "careerId": "doctor",
+          "suitability": 68,
+          "whyItMatches": "Your profound empathy, quick clinical decision-making, and passion for human anatomy make medical practice an exceptional calling."
+        },
+        {
+          "careerId": "nurse",
+          "suitability": 68,
+          "whyItMatches": "Your compassionate bedside empathy, calm composure under pressure, and clinical vigilance make nursing a stellar match."
+        },
+        {
+          "careerId": "physiotherapist",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on body intuition, knowledge of human biomechanics, and passion for physical recovery make physiotherapy a stellar path."
+        },
+        {
+          "careerId": "nutritionist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with food chemistry, health longevity, and dietary coaching makes nutritional science a fantastic career."
+        },
+        {
+          "careerId": "lawyer",
+          "suitability": 68,
+          "whyItMatches": "Your sharp logical argumentation, articulateness under pressure, and ethical standard make the legal profession a powerhouse match."
+        },
+        {
+          "careerId": "civil_services",
+          "suitability": 68,
+          "whyItMatches": "Your public-spirited integrity, strategic administrative leadership, and civic duty position you for high governance impact."
+        },
+        {
+          "careerId": "policy_analyst",
+          "suitability": 68,
+          "whyItMatches": "Your analytical mindset, passion for societal reform, and data-backed research skills align directly with policy advisory."
+        },
+        {
+          "careerId": "architect",
+          "suitability": 68,
+          "whyItMatches": "Your rare blend of mathematical spatial geometry, artistic vision, and tangible construction interest makes architecture an inspiring path."
+        },
+        {
+          "careerId": "chef",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on culinary drive, sensory appreciation, and passion for delighting guests make culinary craft a natural calling."
+        },
+        {
+          "careerId": "fitness_trainer",
+          "suitability": 68,
+          "whyItMatches": "Your physical energy, enthusiasm for health, and motivating personality make fitness training a natural avenue."
+        },
+        {
+          "careerId": "sports_professional",
+          "suitability": 68,
+          "whyItMatches": "Your competitive drive, teamwork spirit, and passion for sports performance make athletic coaching and competition a great fit."
+        },
+        {
+          "careerId": "event_manager",
+          "suitability": 68,
+          "whyItMatches": "Your organizational mastermind, calm multitasking under pressure, and passion for live human experiences make event management a standout fit."
+        },
+        {
+          "careerId": "travel_curator",
+          "suitability": 68,
+          "whyItMatches": "Your adventurous curiosity, cross-cultural charisma, and love for global exploration make travel curation a perfect calling."
+        },
+        {
+          "careerId": "dancer_choreographer",
+          "suitability": 68,
+          "whyItMatches": "Your rhythmic coordination, kinetic physical energy, and creative expression position you for dance mastery."
+        },
+        {
+          "careerId": "model_fashion",
+          "suitability": 68,
+          "whyItMatches": "Your photogenic poise, physical confidence, runway discipline, and personal style make professional modeling a compelling path."
+        },
+        {
+          "careerId": "music_producer",
+          "suitability": 68,
+          "whyItMatches": "Your auditory sensitivity, appreciation for groove and harmony, and technical sonic curiosity make music production an extraordinary match."
+        },
+        {
+          "careerId": "entertainment_media_host",
+          "suitability": 68,
+          "whyItMatches": "Your conversational confidence, rapid improv wit, and natural charm make live hosting and presentation a great match."
+        }
+      ],
+      "createdAt": "2026-10-12T16:56:05.635Z"
+    },
+    {
+      "id": "usr_1791824165930_33cqd",
+      "name": "Jordan Lee",
+      "email": "other_student_1791824165930@example.com",
+      "passwordHash": "hash",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Jordan%20Lee",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": null,
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {},
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-12T16:56:05.930Z"
+    },
+    {
+      "id": "usr_1791824268277_3c52y",
+      "name": "Taylor Swift",
+      "email": "student_1791824268115@example.com",
+      "passwordHash": "$2b$10$PcocsoDw.TKyc9x9UFhbOeZhT0lmSEbvG4/h/cdZvxoOtr6sx3oLW",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Taylor%20Swift",
+      "bio": "",
+      "education": "Student",
+      "interests": [
+        "coding_tech",
+        "visual_design"
+      ],
+      "assessmentCompleted": true,
+      "topCareerId": "software_engineer",
+      "activeCareerId": "software_engineer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {
+        "software_engineer": [
+          "software_engineer-1",
+          "software_engineer-2"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [
+        {
+          "careerId": "software_engineer",
+          "suitability": 97,
+          "whyItMatches": "Your affinity for problem solving, structural logic, and building functional applications aligns directly with software engineering."
+        },
+        {
+          "careerId": "ai_ml_engineer",
+          "suitability": 95,
+          "whyItMatches": "Your mathematical rigor, interest in cutting-edge algorithms, and systems intuition make machine learning an exceptional match."
+        },
+        {
+          "careerId": "cybersecurity_analyst",
+          "suitability": 92,
+          "whyItMatches": "Your methodical investigation style, attention to systemic vulnerabilities, and ethical responsibility position you for high cybersecurity success."
+        },
+        {
+          "careerId": "actor_performer",
+          "suitability": 85,
+          "whyItMatches": "Your emotional empathy, narrative imagination, and stage presence make dramatic acting an exceptional fit."
+        },
+        {
+          "careerId": "ui_ux_designer",
+          "suitability": 83,
+          "whyItMatches": "Your aesthetic taste, empathy for human frustration, and visual composition skills make product design a seamless fit."
+        },
+        {
+          "careerId": "graphic_designer",
+          "suitability": 83,
+          "whyItMatches": "Your visual instinct, command of color theory, and passion for visual identity make graphic design a natural avenue."
+        },
+        {
+          "careerId": "animator",
+          "suitability": 81,
+          "whyItMatches": "Your spatial visualization, appreciation for timing and physics, and storytelling flair empower standout animation work."
+        },
+        {
+          "careerId": "interior_designer",
+          "suitability": 80,
+          "whyItMatches": "Your keen sensitivity to ambient environments, color balance, and spatial harmony make interior design a fulfilling craft."
+        },
+        {
+          "careerId": "video_editor",
+          "suitability": 80,
+          "whyItMatches": "Your sense of storytelling pacing, auditory-visual synchronization, and patience with detail make video editing an ideal match."
+        },
+        {
+          "careerId": "fashion_designer",
+          "suitability": 80,
+          "whyItMatches": "Your visual eye for silhouettes, tactile textile intuition, and fashion trend awareness position you for fashion innovation."
+        },
+        {
+          "careerId": "photographer",
+          "suitability": 78,
+          "whyItMatches": "Your sharp visual framing, timing intuition, and passion for capturing authentic human and environmental moments shine in photography."
+        },
+        {
+          "careerId": "product_manager",
+          "suitability": 78,
+          "whyItMatches": "Your holistic thinking, empathy for customer needs, and strategic communication make product management an extraordinary match."
+        },
+        {
+          "careerId": "film_director_producer",
+          "suitability": 78,
+          "whyItMatches": "Your grand storytelling vision, cinematic eye, and ability to lead creative teams make filmmaking a profound career."
+        },
+        {
+          "careerId": "writer",
+          "suitability": 76,
+          "whyItMatches": "Your articulate vocabulary, philosophical curiosity, and introspective storytelling drive indicate natural resonance with writing."
+        },
+        {
+          "careerId": "singer_vocalist",
+          "suitability": 76,
+          "whyItMatches": "Your vocal musical intuition, emotional expression, and passion for performing center you for vocal artistry."
+        },
+        {
+          "careerId": "content_creator",
+          "suitability": 68,
+          "whyItMatches": "Your charismatic communication, understanding of internet culture, and creative agility position you for top creator success."
+        },
+        {
+          "careerId": "entrepreneur",
+          "suitability": 68,
+          "whyItMatches": "Your risk appetite, strategic drive, resourcefulness, and ambition make startup venture leadership a powerful path."
+        },
+        {
+          "careerId": "marketing_specialist",
+          "suitability": 68,
+          "whyItMatches": "Your blend of human empathy, analytical metric tracking, and creative storytelling makes growth marketing a natural fit."
+        },
+        {
+          "careerId": "financial_analyst",
+          "suitability": 68,
+          "whyItMatches": "Your quantitative rigor, methodical data discipline, and strategic mindset position you for high finance success."
+        },
+        {
+          "careerId": "business_manager",
+          "suitability": 68,
+          "whyItMatches": "Your organizational clarity, leadership presence, and pragmatic problem-solving make business management a great fit."
+        },
+        {
+          "careerId": "hr_specialist",
+          "suitability": 68,
+          "whyItMatches": "Your interpersonal warmth, ethical fairness, and talent for resolving conflicts make people operations a rewarding discipline."
+        },
+        {
+          "careerId": "teacher",
+          "suitability": 68,
+          "whyItMatches": "Your joy in explaining concepts, patient mentorship, and social responsibility make education a profound calling."
+        },
+        {
+          "careerId": "psychologist",
+          "suitability": 68,
+          "whyItMatches": "Your deep psychological curiosity, emotional intelligence, and analytical empathy align directly with psychological practice."
+        },
+        {
+          "careerId": "counselor",
+          "suitability": 68,
+          "whyItMatches": "Your patient presence, compassionate listening, and desire to help others heal make counseling an exceptional fit."
+        },
+        {
+          "careerId": "social_worker",
+          "suitability": 68,
+          "whyItMatches": "Your passion for social justice, empathy for the underprivileged, and on-the-ground action make social work a deeply meaningful career."
+        },
+        {
+          "careerId": "career_counselor",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for personal growth, career discovery, and strategic guidance aligns perfectly with career counseling."
+        },
+        {
+          "careerId": "research_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your intellectual rigor, empirical curiosity, and love for discovering underlying laws of nature make research science a great fit."
+        },
+        {
+          "careerId": "biotechnologist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with molecular life, genetics, and biotechnology solutions matches the forefront of biotech innovation."
+        },
+        {
+          "careerId": "environmental_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your passion for nature, planetary conservation, and ecological sustainability makes environmental science a deeply fulfilling career."
+        },
+        {
+          "careerId": "medical_researcher",
+          "suitability": 68,
+          "whyItMatches": "Your drive to eradicate illness, rigorous medical curiosity, and laboratory mindset position you for major clinical impact."
+        },
+        {
+          "careerId": "doctor",
+          "suitability": 68,
+          "whyItMatches": "Your profound empathy, quick clinical decision-making, and passion for human anatomy make medical practice an exceptional calling."
+        },
+        {
+          "careerId": "nurse",
+          "suitability": 68,
+          "whyItMatches": "Your compassionate bedside empathy, calm composure under pressure, and clinical vigilance make nursing a stellar match."
+        },
+        {
+          "careerId": "physiotherapist",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on body intuition, knowledge of human biomechanics, and passion for physical recovery make physiotherapy a stellar path."
+        },
+        {
+          "careerId": "nutritionist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with food chemistry, health longevity, and dietary coaching makes nutritional science a fantastic career."
+        },
+        {
+          "careerId": "lawyer",
+          "suitability": 68,
+          "whyItMatches": "Your sharp logical argumentation, articulateness under pressure, and ethical standard make the legal profession a powerhouse match."
+        },
+        {
+          "careerId": "civil_services",
+          "suitability": 68,
+          "whyItMatches": "Your public-spirited integrity, strategic administrative leadership, and civic duty position you for high governance impact."
+        },
+        {
+          "careerId": "policy_analyst",
+          "suitability": 68,
+          "whyItMatches": "Your analytical mindset, passion for societal reform, and data-backed research skills align directly with policy advisory."
+        },
+        {
+          "careerId": "architect",
+          "suitability": 68,
+          "whyItMatches": "Your rare blend of mathematical spatial geometry, artistic vision, and tangible construction interest makes architecture an inspiring path."
+        },
+        {
+          "careerId": "chef",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on culinary drive, sensory appreciation, and passion for delighting guests make culinary craft a natural calling."
+        },
+        {
+          "careerId": "fitness_trainer",
+          "suitability": 68,
+          "whyItMatches": "Your physical energy, enthusiasm for health, and motivating personality make fitness training a natural avenue."
+        },
+        {
+          "careerId": "sports_professional",
+          "suitability": 68,
+          "whyItMatches": "Your competitive drive, teamwork spirit, and passion for sports performance make athletic coaching and competition a great fit."
+        },
+        {
+          "careerId": "event_manager",
+          "suitability": 68,
+          "whyItMatches": "Your organizational mastermind, calm multitasking under pressure, and passion for live human experiences make event management a standout fit."
+        },
+        {
+          "careerId": "travel_curator",
+          "suitability": 68,
+          "whyItMatches": "Your adventurous curiosity, cross-cultural charisma, and love for global exploration make travel curation a perfect calling."
+        },
+        {
+          "careerId": "dancer_choreographer",
+          "suitability": 68,
+          "whyItMatches": "Your rhythmic coordination, kinetic physical energy, and creative expression position you for dance mastery."
+        },
+        {
+          "careerId": "model_fashion",
+          "suitability": 68,
+          "whyItMatches": "Your photogenic poise, physical confidence, runway discipline, and personal style make professional modeling a compelling path."
+        },
+        {
+          "careerId": "music_producer",
+          "suitability": 68,
+          "whyItMatches": "Your auditory sensitivity, appreciation for groove and harmony, and technical sonic curiosity make music production an extraordinary match."
+        },
+        {
+          "careerId": "entertainment_media_host",
+          "suitability": 68,
+          "whyItMatches": "Your conversational confidence, rapid improv wit, and natural charm make live hosting and presentation a great match."
+        }
+      ],
+      "createdAt": "2026-10-12T16:57:48.277Z"
+    },
+    {
+      "id": "usr_1791824268521_9n88t",
+      "name": "Jordan Lee",
+      "email": "other_student_1791824268521@example.com",
+      "passwordHash": "hash",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Jordan%20Lee",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": null,
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {},
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-12T16:57:48.521Z"
+    },
+    {
+      "id": "usr_1791824324762_cj575",
+      "name": "Verification Student",
+      "email": "verify_user_1791824324643@example.com",
+      "passwordHash": "$2b$10$3GZPFnl6KFOppWqygomyyeNttwbyGB1EWYGWTpeC3cPfnKn.h.7be",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Verification%20Student",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": "software_engineer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {
+        "software_engineer": [
+          "software_engineer-1"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-12T16:58:44.762Z"
+    },
+    {
+      "id": "usr_1791824359932_xfwdc",
+      "name": "Verification Student",
+      "email": "verify_user_1791824359777@example.com",
+      "passwordHash": "$2b$10$okF6U5awPI53LVAZ5FEMb.5xebiKS80WVG31pEgpI.3rtfAILgIz.",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Verification%20Student",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": "software_engineer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {
+        "software_engineer": [
+          "software_engineer-1"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-12T16:59:19.932Z"
+    },
+    {
+      "id": "usr_1791824371924_0gmrn",
+      "name": "Verification Student",
+      "email": "verify_user_1791824371771@example.com",
+      "passwordHash": "$2b$10$KOHqMZOtF0ZRg5zet42wheFw98241qY.Y1GWyUNHjnXUen6jGICTG",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Verification%20Student",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": "software_engineer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {
+        "software_engineer": [
+          "software_engineer-1"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-12T16:59:31.924Z"
+    },
+    {
+      "id": "usr_1791824429786_jxz9v",
+      "name": "Taylor Swift",
+      "email": "student_1791824429688@example.com",
+      "passwordHash": "$2b$10$IgwCmwoMywF.L185N61sWO.SkPkCheVBygoVl4KF1SyScyfkip5Ui",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Taylor%20Swift",
+      "bio": "",
+      "education": "Student",
+      "interests": [
+        "coding_tech",
+        "visual_design"
+      ],
+      "assessmentCompleted": true,
+      "topCareerId": "software_engineer",
+      "activeCareerId": "software_engineer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {
+        "software_engineer": [
+          "software_engineer-1",
+          "software_engineer-2"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [
+        {
+          "careerId": "software_engineer",
+          "suitability": 97,
+          "whyItMatches": "Your affinity for problem solving, structural logic, and building functional applications aligns directly with software engineering."
+        },
+        {
+          "careerId": "ai_ml_engineer",
+          "suitability": 95,
+          "whyItMatches": "Your mathematical rigor, interest in cutting-edge algorithms, and systems intuition make machine learning an exceptional match."
+        },
+        {
+          "careerId": "cybersecurity_analyst",
+          "suitability": 92,
+          "whyItMatches": "Your methodical investigation style, attention to systemic vulnerabilities, and ethical responsibility position you for high cybersecurity success."
+        },
+        {
+          "careerId": "actor_performer",
+          "suitability": 85,
+          "whyItMatches": "Your emotional empathy, narrative imagination, and stage presence make dramatic acting an exceptional fit."
+        },
+        {
+          "careerId": "ui_ux_designer",
+          "suitability": 83,
+          "whyItMatches": "Your aesthetic taste, empathy for human frustration, and visual composition skills make product design a seamless fit."
+        },
+        {
+          "careerId": "graphic_designer",
+          "suitability": 83,
+          "whyItMatches": "Your visual instinct, command of color theory, and passion for visual identity make graphic design a natural avenue."
+        },
+        {
+          "careerId": "animator",
+          "suitability": 81,
+          "whyItMatches": "Your spatial visualization, appreciation for timing and physics, and storytelling flair empower standout animation work."
+        },
+        {
+          "careerId": "interior_designer",
+          "suitability": 80,
+          "whyItMatches": "Your keen sensitivity to ambient environments, color balance, and spatial harmony make interior design a fulfilling craft."
+        },
+        {
+          "careerId": "video_editor",
+          "suitability": 80,
+          "whyItMatches": "Your sense of storytelling pacing, auditory-visual synchronization, and patience with detail make video editing an ideal match."
+        },
+        {
+          "careerId": "fashion_designer",
+          "suitability": 80,
+          "whyItMatches": "Your visual eye for silhouettes, tactile textile intuition, and fashion trend awareness position you for fashion innovation."
+        },
+        {
+          "careerId": "photographer",
+          "suitability": 78,
+          "whyItMatches": "Your sharp visual framing, timing intuition, and passion for capturing authentic human and environmental moments shine in photography."
+        },
+        {
+          "careerId": "product_manager",
+          "suitability": 78,
+          "whyItMatches": "Your holistic thinking, empathy for customer needs, and strategic communication make product management an extraordinary match."
+        },
+        {
+          "careerId": "film_director_producer",
+          "suitability": 78,
+          "whyItMatches": "Your grand storytelling vision, cinematic eye, and ability to lead creative teams make filmmaking a profound career."
+        },
+        {
+          "careerId": "writer",
+          "suitability": 76,
+          "whyItMatches": "Your articulate vocabulary, philosophical curiosity, and introspective storytelling drive indicate natural resonance with writing."
+        },
+        {
+          "careerId": "singer_vocalist",
+          "suitability": 76,
+          "whyItMatches": "Your vocal musical intuition, emotional expression, and passion for performing center you for vocal artistry."
+        },
+        {
+          "careerId": "content_creator",
+          "suitability": 68,
+          "whyItMatches": "Your charismatic communication, understanding of internet culture, and creative agility position you for top creator success."
+        },
+        {
+          "careerId": "entrepreneur",
+          "suitability": 68,
+          "whyItMatches": "Your risk appetite, strategic drive, resourcefulness, and ambition make startup venture leadership a powerful path."
+        },
+        {
+          "careerId": "marketing_specialist",
+          "suitability": 68,
+          "whyItMatches": "Your blend of human empathy, analytical metric tracking, and creative storytelling makes growth marketing a natural fit."
+        },
+        {
+          "careerId": "financial_analyst",
+          "suitability": 68,
+          "whyItMatches": "Your quantitative rigor, methodical data discipline, and strategic mindset position you for high finance success."
+        },
+        {
+          "careerId": "business_manager",
+          "suitability": 68,
+          "whyItMatches": "Your organizational clarity, leadership presence, and pragmatic problem-solving make business management a great fit."
+        },
+        {
+          "careerId": "hr_specialist",
+          "suitability": 68,
+          "whyItMatches": "Your interpersonal warmth, ethical fairness, and talent for resolving conflicts make people operations a rewarding discipline."
+        },
+        {
+          "careerId": "teacher",
+          "suitability": 68,
+          "whyItMatches": "Your joy in explaining concepts, patient mentorship, and social responsibility make education a profound calling."
+        },
+        {
+          "careerId": "psychologist",
+          "suitability": 68,
+          "whyItMatches": "Your deep psychological curiosity, emotional intelligence, and analytical empathy align directly with psychological practice."
+        },
+        {
+          "careerId": "counselor",
+          "suitability": 68,
+          "whyItMatches": "Your patient presence, compassionate listening, and desire to help others heal make counseling an exceptional fit."
+        },
+        {
+          "careerId": "social_worker",
+          "suitability": 68,
+          "whyItMatches": "Your passion for social justice, empathy for the underprivileged, and on-the-ground action make social work a deeply meaningful career."
+        },
+        {
+          "careerId": "career_counselor",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for personal growth, career discovery, and strategic guidance aligns perfectly with career counseling."
+        },
+        {
+          "careerId": "research_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your intellectual rigor, empirical curiosity, and love for discovering underlying laws of nature make research science a great fit."
+        },
+        {
+          "careerId": "biotechnologist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with molecular life, genetics, and biotechnology solutions matches the forefront of biotech innovation."
+        },
+        {
+          "careerId": "environmental_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your passion for nature, planetary conservation, and ecological sustainability makes environmental science a deeply fulfilling career."
+        },
+        {
+          "careerId": "medical_researcher",
+          "suitability": 68,
+          "whyItMatches": "Your drive to eradicate illness, rigorous medical curiosity, and laboratory mindset position you for major clinical impact."
+        },
+        {
+          "careerId": "doctor",
+          "suitability": 68,
+          "whyItMatches": "Your profound empathy, quick clinical decision-making, and passion for human anatomy make medical practice an exceptional calling."
+        },
+        {
+          "careerId": "nurse",
+          "suitability": 68,
+          "whyItMatches": "Your compassionate bedside empathy, calm composure under pressure, and clinical vigilance make nursing a stellar match."
+        },
+        {
+          "careerId": "physiotherapist",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on body intuition, knowledge of human biomechanics, and passion for physical recovery make physiotherapy a stellar path."
+        },
+        {
+          "careerId": "nutritionist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with food chemistry, health longevity, and dietary coaching makes nutritional science a fantastic career."
+        },
+        {
+          "careerId": "lawyer",
+          "suitability": 68,
+          "whyItMatches": "Your sharp logical argumentation, articulateness under pressure, and ethical standard make the legal profession a powerhouse match."
+        },
+        {
+          "careerId": "civil_services",
+          "suitability": 68,
+          "whyItMatches": "Your public-spirited integrity, strategic administrative leadership, and civic duty position you for high governance impact."
+        },
+        {
+          "careerId": "policy_analyst",
+          "suitability": 68,
+          "whyItMatches": "Your analytical mindset, passion for societal reform, and data-backed research skills align directly with policy advisory."
+        },
+        {
+          "careerId": "architect",
+          "suitability": 68,
+          "whyItMatches": "Your rare blend of mathematical spatial geometry, artistic vision, and tangible construction interest makes architecture an inspiring path."
+        },
+        {
+          "careerId": "chef",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on culinary drive, sensory appreciation, and passion for delighting guests make culinary craft a natural calling."
+        },
+        {
+          "careerId": "fitness_trainer",
+          "suitability": 68,
+          "whyItMatches": "Your physical energy, enthusiasm for health, and motivating personality make fitness training a natural avenue."
+        },
+        {
+          "careerId": "sports_professional",
+          "suitability": 68,
+          "whyItMatches": "Your competitive drive, teamwork spirit, and passion for sports performance make athletic coaching and competition a great fit."
+        },
+        {
+          "careerId": "event_manager",
+          "suitability": 68,
+          "whyItMatches": "Your organizational mastermind, calm multitasking under pressure, and passion for live human experiences make event management a standout fit."
+        },
+        {
+          "careerId": "travel_curator",
+          "suitability": 68,
+          "whyItMatches": "Your adventurous curiosity, cross-cultural charisma, and love for global exploration make travel curation a perfect calling."
+        },
+        {
+          "careerId": "dancer_choreographer",
+          "suitability": 68,
+          "whyItMatches": "Your rhythmic coordination, kinetic physical energy, and creative expression position you for dance mastery."
+        },
+        {
+          "careerId": "model_fashion",
+          "suitability": 68,
+          "whyItMatches": "Your photogenic poise, physical confidence, runway discipline, and personal style make professional modeling a compelling path."
+        },
+        {
+          "careerId": "music_producer",
+          "suitability": 68,
+          "whyItMatches": "Your auditory sensitivity, appreciation for groove and harmony, and technical sonic curiosity make music production an extraordinary match."
+        },
+        {
+          "careerId": "entertainment_media_host",
+          "suitability": 68,
+          "whyItMatches": "Your conversational confidence, rapid improv wit, and natural charm make live hosting and presentation a great match."
+        }
+      ],
+      "createdAt": "2026-10-12T17:00:29.786Z"
+    },
+    {
+      "id": "usr_1791824430074_e0tkp",
+      "name": "Jordan Lee",
+      "email": "other_student_1791824430074@example.com",
+      "passwordHash": "hash",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Jordan%20Lee",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": null,
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {},
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-12T17:00:30.074Z"
+    },
+    {
+      "id": "usr_1791824431804_jijyl",
+      "name": "Verification Student",
+      "email": "verify_user_1791824431637@example.com",
+      "passwordHash": "$2b$10$KxyqszTP.HGOHOIQTR3ViuWI1uKW4zyU9UA1fS9cypyNCaUAoMOBm",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Verification%20Student",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": "software_engineer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {
+        "software_engineer": [
+          "software_engineer-1"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-12T17:00:31.804Z"
+    },
+    {
+      "id": "usr_1791825521115_tii8n",
+      "name": "Rebecca",
+      "email": "23b01a4569@gmail.com",
+      "passwordHash": "$2b$10$eOKbJWoeIjD064v2DoB2Me2xmr7sCE86S.L2OMnEeOS9dTeylmWxG",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Rebecca",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": null,
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {},
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-12T17:18:41.115Z"
+    },
+    {
+      "id": "usr_1791825732847_tbkep",
+      "name": "Alexa",
+      "email": "23b01a45b7@gmail.com",
+      "passwordHash": "$2b$10$dHiGF5ZdqItD9AMieAJ8zeWKdAwiGFt7A4fu3oCA6MLDWEXXqliFa",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Alexa",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": null,
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {},
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-12T17:22:12.847Z"
+    },
+    {
+      "id": "usr_1791903045779_1hfgy",
+      "name": "Taylor Swift",
+      "email": "student_1791903045590@example.com",
+      "passwordHash": "$2b$10$.l0MqSPlGG4oFyZBt95YCO2rCfCYBQW3SKBIjl0My6Cc4oPe.BihS",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Taylor%20Swift",
+      "bio": "",
+      "education": "Student",
+      "interests": [
+        "coding_tech",
+        "visual_design"
+      ],
+      "assessmentCompleted": true,
+      "topCareerId": "software_engineer",
+      "activeCareerId": "software_engineer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {
+        "software_engineer": [
+          "software_engineer-1",
+          "software_engineer-2"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [
+        {
+          "careerId": "software_engineer",
+          "suitability": 97,
+          "whyItMatches": "Your affinity for problem solving, structural logic, and building functional applications aligns directly with software engineering."
+        },
+        {
+          "careerId": "ai_ml_engineer",
+          "suitability": 95,
+          "whyItMatches": "Your mathematical rigor, interest in cutting-edge algorithms, and systems intuition make machine learning an exceptional match."
+        },
+        {
+          "careerId": "cybersecurity_analyst",
+          "suitability": 92,
+          "whyItMatches": "Your methodical investigation style, attention to systemic vulnerabilities, and ethical responsibility position you for high cybersecurity success."
+        },
+        {
+          "careerId": "actor_performer",
+          "suitability": 85,
+          "whyItMatches": "Your emotional empathy, narrative imagination, and stage presence make dramatic acting an exceptional fit."
+        },
+        {
+          "careerId": "ui_ux_designer",
+          "suitability": 83,
+          "whyItMatches": "Your aesthetic taste, empathy for human frustration, and visual composition skills make product design a seamless fit."
+        },
+        {
+          "careerId": "graphic_designer",
+          "suitability": 83,
+          "whyItMatches": "Your visual instinct, command of color theory, and passion for visual identity make graphic design a natural avenue."
+        },
+        {
+          "careerId": "animator",
+          "suitability": 81,
+          "whyItMatches": "Your spatial visualization, appreciation for timing and physics, and storytelling flair empower standout animation work."
+        },
+        {
+          "careerId": "interior_designer",
+          "suitability": 80,
+          "whyItMatches": "Your keen sensitivity to ambient environments, color balance, and spatial harmony make interior design a fulfilling craft."
+        },
+        {
+          "careerId": "video_editor",
+          "suitability": 80,
+          "whyItMatches": "Your sense of storytelling pacing, auditory-visual synchronization, and patience with detail make video editing an ideal match."
+        },
+        {
+          "careerId": "fashion_designer",
+          "suitability": 80,
+          "whyItMatches": "Your visual eye for silhouettes, tactile textile intuition, and fashion trend awareness position you for fashion innovation."
+        },
+        {
+          "careerId": "photographer",
+          "suitability": 78,
+          "whyItMatches": "Your sharp visual framing, timing intuition, and passion for capturing authentic human and environmental moments shine in photography."
+        },
+        {
+          "careerId": "product_manager",
+          "suitability": 78,
+          "whyItMatches": "Your holistic thinking, empathy for customer needs, and strategic communication make product management an extraordinary match."
+        },
+        {
+          "careerId": "film_director_producer",
+          "suitability": 78,
+          "whyItMatches": "Your grand storytelling vision, cinematic eye, and ability to lead creative teams make filmmaking a profound career."
+        },
+        {
+          "careerId": "writer",
+          "suitability": 76,
+          "whyItMatches": "Your articulate vocabulary, philosophical curiosity, and introspective storytelling drive indicate natural resonance with writing."
+        },
+        {
+          "careerId": "singer_vocalist",
+          "suitability": 76,
+          "whyItMatches": "Your vocal musical intuition, emotional expression, and passion for performing center you for vocal artistry."
+        },
+        {
+          "careerId": "content_creator",
+          "suitability": 68,
+          "whyItMatches": "Your charismatic communication, understanding of internet culture, and creative agility position you for top creator success."
+        },
+        {
+          "careerId": "entrepreneur",
+          "suitability": 68,
+          "whyItMatches": "Your risk appetite, strategic drive, resourcefulness, and ambition make startup venture leadership a powerful path."
+        },
+        {
+          "careerId": "marketing_specialist",
+          "suitability": 68,
+          "whyItMatches": "Your blend of human empathy, analytical metric tracking, and creative storytelling makes growth marketing a natural fit."
+        },
+        {
+          "careerId": "financial_analyst",
+          "suitability": 68,
+          "whyItMatches": "Your quantitative rigor, methodical data discipline, and strategic mindset position you for high finance success."
+        },
+        {
+          "careerId": "business_manager",
+          "suitability": 68,
+          "whyItMatches": "Your organizational clarity, leadership presence, and pragmatic problem-solving make business management a great fit."
+        },
+        {
+          "careerId": "hr_specialist",
+          "suitability": 68,
+          "whyItMatches": "Your interpersonal warmth, ethical fairness, and talent for resolving conflicts make people operations a rewarding discipline."
+        },
+        {
+          "careerId": "teacher",
+          "suitability": 68,
+          "whyItMatches": "Your joy in explaining concepts, patient mentorship, and social responsibility make education a profound calling."
+        },
+        {
+          "careerId": "psychologist",
+          "suitability": 68,
+          "whyItMatches": "Your deep psychological curiosity, emotional intelligence, and analytical empathy align directly with psychological practice."
+        },
+        {
+          "careerId": "counselor",
+          "suitability": 68,
+          "whyItMatches": "Your patient presence, compassionate listening, and desire to help others heal make counseling an exceptional fit."
+        },
+        {
+          "careerId": "social_worker",
+          "suitability": 68,
+          "whyItMatches": "Your passion for social justice, empathy for the underprivileged, and on-the-ground action make social work a deeply meaningful career."
+        },
+        {
+          "careerId": "career_counselor",
+          "suitability": 68,
+          "whyItMatches": "Your enthusiasm for personal growth, career discovery, and strategic guidance aligns perfectly with career counseling."
+        },
+        {
+          "careerId": "research_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your intellectual rigor, empirical curiosity, and love for discovering underlying laws of nature make research science a great fit."
+        },
+        {
+          "careerId": "biotechnologist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with molecular life, genetics, and biotechnology solutions matches the forefront of biotech innovation."
+        },
+        {
+          "careerId": "environmental_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your passion for nature, planetary conservation, and ecological sustainability makes environmental science a deeply fulfilling career."
+        },
+        {
+          "careerId": "medical_researcher",
+          "suitability": 68,
+          "whyItMatches": "Your drive to eradicate illness, rigorous medical curiosity, and laboratory mindset position you for major clinical impact."
+        },
+        {
+          "careerId": "doctor",
+          "suitability": 68,
+          "whyItMatches": "Your profound empathy, quick clinical decision-making, and passion for human anatomy make medical practice an exceptional calling."
+        },
+        {
+          "careerId": "nurse",
+          "suitability": 68,
+          "whyItMatches": "Your compassionate bedside empathy, calm composure under pressure, and clinical vigilance make nursing a stellar match."
+        },
+        {
+          "careerId": "physiotherapist",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on body intuition, knowledge of human biomechanics, and passion for physical recovery make physiotherapy a stellar path."
+        },
+        {
+          "careerId": "nutritionist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with food chemistry, health longevity, and dietary coaching makes nutritional science a fantastic career."
+        },
+        {
+          "careerId": "lawyer",
+          "suitability": 68,
+          "whyItMatches": "Your sharp logical argumentation, articulateness under pressure, and ethical standard make the legal profession a powerhouse match."
+        },
+        {
+          "careerId": "civil_services",
+          "suitability": 68,
+          "whyItMatches": "Your public-spirited integrity, strategic administrative leadership, and civic duty position you for high governance impact."
+        },
+        {
+          "careerId": "policy_analyst",
+          "suitability": 68,
+          "whyItMatches": "Your analytical mindset, passion for societal reform, and data-backed research skills align directly with policy advisory."
+        },
+        {
+          "careerId": "architect",
+          "suitability": 68,
+          "whyItMatches": "Your rare blend of mathematical spatial geometry, artistic vision, and tangible construction interest makes architecture an inspiring path."
+        },
+        {
+          "careerId": "chef",
+          "suitability": 68,
+          "whyItMatches": "Your hands-on culinary drive, sensory appreciation, and passion for delighting guests make culinary craft a natural calling."
+        },
+        {
+          "careerId": "fitness_trainer",
+          "suitability": 68,
+          "whyItMatches": "Your physical energy, enthusiasm for health, and motivating personality make fitness training a natural avenue."
+        },
+        {
+          "careerId": "sports_professional",
+          "suitability": 68,
+          "whyItMatches": "Your competitive drive, teamwork spirit, and passion for sports performance make athletic coaching and competition a great fit."
+        },
+        {
+          "careerId": "event_manager",
+          "suitability": 68,
+          "whyItMatches": "Your organizational mastermind, calm multitasking under pressure, and passion for live human experiences make event management a standout fit."
+        },
+        {
+          "careerId": "travel_curator",
+          "suitability": 68,
+          "whyItMatches": "Your adventurous curiosity, cross-cultural charisma, and love for global exploration make travel curation a perfect calling."
+        },
+        {
+          "careerId": "dancer_choreographer",
+          "suitability": 68,
+          "whyItMatches": "Your rhythmic coordination, kinetic physical energy, and creative expression position you for dance mastery."
+        },
+        {
+          "careerId": "model_fashion",
+          "suitability": 68,
+          "whyItMatches": "Your photogenic poise, physical confidence, runway discipline, and personal style make professional modeling a compelling path."
+        },
+        {
+          "careerId": "music_producer",
+          "suitability": 68,
+          "whyItMatches": "Your auditory sensitivity, appreciation for groove and harmony, and technical sonic curiosity make music production an extraordinary match."
+        },
+        {
+          "careerId": "entertainment_media_host",
+          "suitability": 68,
+          "whyItMatches": "Your conversational confidence, rapid improv wit, and natural charm make live hosting and presentation a great match."
+        }
+      ],
+      "createdAt": "2026-10-13T14:50:45.779Z"
+    },
+    {
+      "id": "usr_1791903046090_461ur",
+      "name": "Jordan Lee",
+      "email": "other_student_1791903046090@example.com",
+      "passwordHash": "hash",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Jordan%20Lee",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": null,
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {},
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-13T14:50:46.090Z"
+    },
+    {
+      "id": "usr_1791903086192_l8ij4",
+      "name": "Verification Student",
+      "email": "verify_user_1791903086024@example.com",
+      "passwordHash": "$2b$10$j6xSXhGfhQRwVRmjkVcnvuGD9WrmNIjrQhSkTlu0glmbOFag901gK",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Verification%20Student",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": "software_engineer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {
+        "software_engineer": [
+          "software_engineer-1"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-13T14:51:26.192Z"
+    },
+    {
+      "id": "usr_1791903086757_sbuue",
+      "name": "User A Isolation",
+      "email": "user_a_1791903086645@isolationtest.com",
+      "passwordHash": "$2b$10$SrgWNRTchwzA9pkOHjfMC.ev1gs1Yy.5l3/qYDiThNge0OgB.7a6a",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=User%20A%20Isolation",
+      "bio": "",
+      "education": "Student",
+      "interests": [
+        "coding_tech",
+        "science_research"
+      ],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": "software_engineer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {
+        "software_engineer": [
+          "software_engineer-1"
+        ]
+      },
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-13T14:51:26.757Z"
+    },
+    {
+      "id": "usr_1791903087092_plw51",
+      "name": "User B Isolation",
+      "email": "user_b_1791903086979@isolationtest.com",
+      "passwordHash": "$2b$10$xkIIP0RcQZlKzApdWeq3NuMEHNJvmznpaNyDwhSVE//7tBci59vTG",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=User%20B%20Isolation",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": null,
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {},
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-13T14:51:27.092Z"
+    },
+    {
+      "id": "usr_1791903566979_f79n1",
+      "name": "Bob",
+      "email": "23b01a4576@gmail.com",
+      "passwordHash": "$2b$10$uZJvO25R5ioyTM1qPm4z0OTn6aqojI63JsL.8RkM4Yc/8/KETEKtW",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Bob",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": false,
+      "topCareerId": null,
+      "activeCareerId": null,
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {},
+      "savedCareers": [],
+      "recommendations": [],
+      "createdAt": "2026-10-13T14:59:26.979Z"
+    },
+    {
+      "id": "usr_1791904104396_nruhq",
+      "name": "nahh",
+      "email": "23b01a4583@gmail.com",
+      "passwordHash": "$2b$10$aMDA4/pbIF1VcOoJZGAqXeN3H/NE64OAs5fVGcVoBfkWUvnOk//zi",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=nahh",
+      "bio": "",
+      "education": "Student",
+      "interests": [],
+      "assessmentCompleted": true,
+      "topCareerId": "music_producer",
+      "activeCareerId": "music_producer",
+      "isVerified": true,
+      "verificationToken": null,
+      "verificationTokenExpires": null,
+      "completedRoadmapItems": {},
+      "savedCareers": [],
+      "recommendations": [
+        {
+          "careerId": "music_producer",
+          "suitability": 97,
+          "whyItMatches": "Your auditory sensitivity, appreciation for groove and harmony, and technical sonic curiosity make music production an extraordinary match."
+        },
+        {
+          "careerId": "counselor",
+          "suitability": 92,
+          "whyItMatches": "Your patient presence, compassionate listening, and desire to help others heal make counseling an exceptional fit."
+        },
+        {
+          "careerId": "photographer",
+          "suitability": 85,
+          "whyItMatches": "Your sharp visual framing, timing intuition, and passion for capturing authentic human and environmental moments shine in photography."
+        },
+        {
+          "careerId": "video_editor",
+          "suitability": 85,
+          "whyItMatches": "Your sense of storytelling pacing, auditory-visual synchronization, and patience with detail make video editing an ideal match."
+        },
+        {
+          "careerId": "social_worker",
+          "suitability": 85,
+          "whyItMatches": "Your passion for social justice, empathy for the underprivileged, and on-the-ground action make social work a deeply meaningful career."
+        },
+        {
+          "careerId": "event_manager",
+          "suitability": 85,
+          "whyItMatches": "Your organizational mastermind, calm multitasking under pressure, and passion for live human experiences make event management a standout fit."
+        },
+        {
+          "careerId": "teacher",
+          "suitability": 84,
+          "whyItMatches": "Your joy in explaining concepts, patient mentorship, and social responsibility make education a profound calling."
+        },
+        {
+          "careerId": "dancer_choreographer",
+          "suitability": 84,
+          "whyItMatches": "Your rhythmic coordination, kinetic physical energy, and creative expression position you for dance mastery."
+        },
+        {
+          "careerId": "product_manager",
+          "suitability": 83,
+          "whyItMatches": "Your holistic thinking, empathy for customer needs, and strategic communication make product management an extraordinary match."
+        },
+        {
+          "careerId": "singer_vocalist",
+          "suitability": 83,
+          "whyItMatches": "Your vocal musical intuition, emotional expression, and passion for performing center you for vocal artistry."
+        },
+        {
+          "careerId": "entrepreneur",
+          "suitability": 82,
+          "whyItMatches": "Your risk appetite, strategic drive, resourcefulness, and ambition make startup venture leadership a powerful path."
+        },
+        {
+          "careerId": "medical_researcher",
+          "suitability": 82,
+          "whyItMatches": "Your drive to eradicate illness, rigorous medical curiosity, and laboratory mindset position you for major clinical impact."
+        },
+        {
+          "careerId": "civil_services",
+          "suitability": 82,
+          "whyItMatches": "Your public-spirited integrity, strategic administrative leadership, and civic duty position you for high governance impact."
+        },
+        {
+          "careerId": "fitness_trainer",
+          "suitability": 82,
+          "whyItMatches": "Your physical energy, enthusiasm for health, and motivating personality make fitness training a natural avenue."
+        },
+        {
+          "careerId": "cybersecurity_analyst",
+          "suitability": 81,
+          "whyItMatches": "Your methodical investigation style, attention to systemic vulnerabilities, and ethical responsibility position you for high cybersecurity success."
+        },
+        {
+          "careerId": "business_manager",
+          "suitability": 81,
+          "whyItMatches": "Your organizational clarity, leadership presence, and pragmatic problem-solving make business management a great fit."
+        },
+        {
+          "careerId": "writer",
+          "suitability": 80,
+          "whyItMatches": "Your articulate vocabulary, philosophical curiosity, and introspective storytelling drive indicate natural resonance with writing."
+        },
+        {
+          "careerId": "psychologist",
+          "suitability": 80,
+          "whyItMatches": "Your deep psychological curiosity, emotional intelligence, and analytical empathy align directly with psychological practice."
+        },
+        {
+          "careerId": "career_counselor",
+          "suitability": 80,
+          "whyItMatches": "Your enthusiasm for personal growth, career discovery, and strategic guidance aligns perfectly with career counseling."
+        },
+        {
+          "careerId": "physiotherapist",
+          "suitability": 80,
+          "whyItMatches": "Your hands-on body intuition, knowledge of human biomechanics, and passion for physical recovery make physiotherapy a stellar path."
+        },
+        {
+          "careerId": "film_director_producer",
+          "suitability": 80,
+          "whyItMatches": "Your grand storytelling vision, cinematic eye, and ability to lead creative teams make filmmaking a profound career."
+        },
+        {
+          "careerId": "marketing_specialist",
+          "suitability": 79,
+          "whyItMatches": "Your blend of human empathy, analytical metric tracking, and creative storytelling makes growth marketing a natural fit."
+        },
+        {
+          "careerId": "biotechnologist",
+          "suitability": 77,
+          "whyItMatches": "Your fascination with molecular life, genetics, and biotechnology solutions matches the forefront of biotech innovation."
+        },
+        {
+          "careerId": "doctor",
+          "suitability": 77,
+          "whyItMatches": "Your profound empathy, quick clinical decision-making, and passion for human anatomy make medical practice an exceptional calling."
+        },
+        {
+          "careerId": "policy_analyst",
+          "suitability": 77,
+          "whyItMatches": "Your analytical mindset, passion for societal reform, and data-backed research skills align directly with policy advisory."
+        },
+        {
+          "careerId": "sports_professional",
+          "suitability": 77,
+          "whyItMatches": "Your competitive drive, teamwork spirit, and passion for sports performance make athletic coaching and competition a great fit."
+        },
+        {
+          "careerId": "software_engineer",
+          "suitability": 76,
+          "whyItMatches": "Your affinity for problem solving, structural logic, and building functional applications aligns directly with software engineering."
+        },
+        {
+          "careerId": "content_creator",
+          "suitability": 76,
+          "whyItMatches": "Your charismatic communication, understanding of internet culture, and creative agility position you for top creator success."
+        },
+        {
+          "careerId": "chef",
+          "suitability": 76,
+          "whyItMatches": "Your hands-on culinary drive, sensory appreciation, and passion for delighting guests make culinary craft a natural calling."
+        },
+        {
+          "careerId": "model_fashion",
+          "suitability": 76,
+          "whyItMatches": "Your photogenic poise, physical confidence, runway discipline, and personal style make professional modeling a compelling path."
+        },
+        {
+          "careerId": "interior_designer",
+          "suitability": 74,
+          "whyItMatches": "Your keen sensitivity to ambient environments, color balance, and spatial harmony make interior design a fulfilling craft."
+        },
+        {
+          "careerId": "financial_analyst",
+          "suitability": 74,
+          "whyItMatches": "Your quantitative rigor, methodical data discipline, and strategic mindset position you for high finance success."
+        },
+        {
+          "careerId": "research_scientist",
+          "suitability": 74,
+          "whyItMatches": "Your intellectual rigor, empirical curiosity, and love for discovering underlying laws of nature make research science a great fit."
+        },
+        {
+          "careerId": "fashion_designer",
+          "suitability": 74,
+          "whyItMatches": "Your visual eye for silhouettes, tactile textile intuition, and fashion trend awareness position you for fashion innovation."
+        },
+        {
+          "careerId": "nurse",
+          "suitability": 73,
+          "whyItMatches": "Your compassionate bedside empathy, calm composure under pressure, and clinical vigilance make nursing a stellar match."
+        },
+        {
+          "careerId": "actor_performer",
+          "suitability": 73,
+          "whyItMatches": "Your emotional empathy, narrative imagination, and stage presence make dramatic acting an exceptional fit."
+        },
+        {
+          "careerId": "ui_ux_designer",
+          "suitability": 72,
+          "whyItMatches": "Your aesthetic taste, empathy for human frustration, and visual composition skills make product design a seamless fit."
+        },
+        {
+          "careerId": "travel_curator",
+          "suitability": 71,
+          "whyItMatches": "Your adventurous curiosity, cross-cultural charisma, and love for global exploration make travel curation a perfect calling."
+        },
+        {
+          "careerId": "ai_ml_engineer",
+          "suitability": 68,
+          "whyItMatches": "Your mathematical rigor, interest in cutting-edge algorithms, and systems intuition make machine learning an exceptional match."
+        },
+        {
+          "careerId": "graphic_designer",
+          "suitability": 68,
+          "whyItMatches": "Your visual instinct, command of color theory, and passion for visual identity make graphic design a natural avenue."
+        },
+        {
+          "careerId": "animator",
+          "suitability": 68,
+          "whyItMatches": "Your spatial visualization, appreciation for timing and physics, and storytelling flair empower standout animation work."
+        },
+        {
+          "careerId": "hr_specialist",
+          "suitability": 68,
+          "whyItMatches": "Your interpersonal warmth, ethical fairness, and talent for resolving conflicts make people operations a rewarding discipline."
+        },
+        {
+          "careerId": "environmental_scientist",
+          "suitability": 68,
+          "whyItMatches": "Your passion for nature, planetary conservation, and ecological sustainability makes environmental science a deeply fulfilling career."
+        },
+        {
+          "careerId": "nutritionist",
+          "suitability": 68,
+          "whyItMatches": "Your fascination with food chemistry, health longevity, and dietary coaching makes nutritional science a fantastic career."
+        },
+        {
+          "careerId": "lawyer",
+          "suitability": 68,
+          "whyItMatches": "Your sharp logical argumentation, articulateness under pressure, and ethical standard make the legal profession a powerhouse match."
+        },
+        {
+          "careerId": "architect",
+          "suitability": 68,
+          "whyItMatches": "Your rare blend of mathematical spatial geometry, artistic vision, and tangible construction interest makes architecture an inspiring path."
+        },
+        {
+          "careerId": "entertainment_media_host",
+          "suitability": 68,
+          "whyItMatches": "Your conversational confidence, rapid improv wit, and natural charm make live hosting and presentation a great match."
+        }
+      ],
+      "createdAt": "2026-10-13T15:08:24.396Z",
+      "assessmentHistory": [
+        {
+          "completedAt": "2026-10-13T15:17:52.957Z",
+          "topCareerId": "music_producer",
+          "suitabilityScore": 97,
+          "answers": [
+            {
+              "questionId": 1,
+              "optionIndex": 1
+            },
+            {
+              "questionId": 2,
+              "optionIndex": 4
+            },
+            {
+              "questionId": 3,
+              "optionIndex": 3
+            },
+            {
+              "questionId": 4,
+              "optionIndex": 2
+            },
+            {
+              "questionId": 5,
+              "optionIndex": 1
+            },
+            {
+              "questionId": 6,
+              "optionIndex": 0
+            },
+            {
+              "questionId": 7,
+              "optionIndex": 4
+            },
+            {
+              "questionId": 8,
+              "optionIndex": 2
+            },
+            {
+              "questionId": 9,
+              "optionIndex": 1
+            },
+            {
+              "questionId": 10,
+              "optionIndex": 3
+            },
+            {
+              "questionId": 11,
+              "optionIndex": 4
+            },
+            {
+              "questionId": 12,
+              "optionIndex": 0
+            },
+            {
+              "questionId": 13,
+              "optionIndex": 3
+            },
+            {
+              "questionId": 14,
+              "optionIndex": 1
+            },
+            {
+              "questionId": 15,
+              "optionIndex": 0
+            },
+            {
+              "questionId": 16,
+              "optionIndex": 4
+            },
+            {
+              "questionId": 17,
+              "optionIndex": 2
+            },
+            {
+              "questionId": 18,
+              "optionIndex": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

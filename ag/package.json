@@ -1,0 +1,10 @@
+{
+  "name": "findmyflow-mvp",
+  "version": "1.0.0",
+  "description": "FindMyFlow — Turn Interests Into Careers | Startup-quality full-stack MVP",
+  "scripts": {
+    "server": "npm run start --prefix server",
+    "client": "npm run dev --prefix client",
+    "build:client": "npm run build --prefix client"
+  }
+}
