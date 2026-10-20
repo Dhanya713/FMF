@@ -1,6 +1,6 @@
 import { User, Career, Question, Roadmap, DashboardData, Interest, Recommendation } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = 'https://fmf-587u.onrender.com/api';
 
 function getToken(): string | null {
   return localStorage.getItem('findmyflow_token');
